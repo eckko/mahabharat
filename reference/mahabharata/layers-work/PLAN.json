@@ -10,7 +10,7 @@
    "first": "P1",
    "last": "26",
    "lines": 54,
-   "state": "checked",
+   "state": "written",
    "dir": "p018/ch001"
   },
   {
@@ -22,7 +22,7 @@
    "first": "P1",
    "last": "54",
    "lines": 111,
-   "state": "pending",
+   "state": "written",
    "dir": "p018/ch002"
   },
   {
@@ -34,7 +34,7 @@
    "first": "P1",
    "last": "41",
    "lines": 87,
-   "state": "pending",
+   "state": "written",
    "dir": "p018/ch003"
   },
   {
@@ -46,7 +46,7 @@
    "first": "P1",
    "last": "19",
    "lines": 42,
-   "state": "merged",
+   "state": "written",
    "dir": "p018/ch004"
   },
   {
@@ -58,7 +58,7 @@
    "first": "P1",
    "last": "54",
    "lines": 116,
-   "state": "pending",
+   "state": "written",
    "dir": "p018/ch005"
   }
  ]
