@@ -1,0 +1,1 @@
+Original ITRANS files from sanskritdocuments.org (BORI Critical Edition, Tokunaga/Smith), mbh01 to mbh18. Unchanged. Do not edit. Licence terms are in ../sources.md. Integrity check: sha256sum -c SHA256SUMS
