@@ -1,0 +1,51 @@
+{
+ "units": [
+  {"n": "P1", "verdict": "ok", "issues": []},
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "ब्रह्मसम्बन्धी (दिव्य) शरीर", "problem": "Bracketed gloss inside the Hindi; the brief forbids brackets in `hindi`. The literal sense of brāhmeṇa vapuṣā is just 'with a form pertaining to Brahman'.", "fix": "ब्रह्मसम्बन्धी शरीर", "severity": "error",
+    "patch": {"n": "2", "op": "replace", "field": "hindi", "old": "ब्रह्मसम्बन्धी (दिव्य) शरीर", "new": "ब्रह्मसम्बन्धी शरीर"}},
+   {"field": "english", "where": "a divine (Brahman-like) form", "problem": "'divine' is an interpretation added to brāhma ('pertaining to Brahman'); the note already explains it, so the translation should stay literal.", "fix": "a Brahman-like form", "severity": "minor",
+    "patch": {"n": "2", "op": "replace", "field": "english", "old": "a divine (Brahman-like) form", "new": "a Brahman-like form"}}
+  ]},
+  {"n": "3", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(उन्होंने गोविन्द को देखा,) जो", "problem": "Bracketed carried-over clause in the Hindi; the brief allows no brackets in `hindi`. The unit is a continuation of unit 2 and can start with the relative clause; the note already says the accusatives qualify Govinda.", "fix": "जो", "severity": "minor",
+    "patch": {"n": "3", "op": "replace", "field": "hindi", "old": "(उन्होंने गोविन्द को देखा,) जो", "new": "जो"}}
+  ]},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "praṣṭum enām", "problem": "enām praṣṭum can mean 'to ask her' or 'to ask about her' (Indra then speaks about her, which favours the second); the draft gives only one reading and does not record the alternative.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "8", "op": "append_note", "text": "enām praṣṭum: 'to question her' or 'to ask about her' (Indra's answer in 9-10 is about her); rendered 'question her'."}}
+  ]},
+  {"n": "9", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "साक्षात् श्री", "problem": "'साक्षात्' is not in the Sanskrit (śrīr eṣā draupadīrūpā); unsupported emphasis added.", "fix": "यह द्रौपदी के रूप में श्री है", "severity": "error",
+    "patch": {"n": "9", "op": "replace", "field": "hindi", "old": "साक्षात् श्री है", "new": "श्री है"}}
+  ]},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "वृष्णि और अन्धक वंश के महारथियों", "problem": "'वंश' (lineage) is added; vṛṣṇi-andhaka-mahārathān is just 'the great chariot-warriors of the Vṛṣṇis and Andhakas'.", "fix": "वृष्णियों और अन्धकों के महारथियों", "severity": "minor",
+    "patch": {"n": "14", "op": "replace", "field": "hindi", "old": "वृष्णि और अन्धक वंश के महारथियों", "new": "वृष्णियों और अन्धकों के महारथियों"}}
+  ]},
+  {"n": "15", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "सोम के साथ स्थित", "problem": "'स्थित' is added; sahitam is only 'together with'.", "fix": "सोम के सहित", "severity": "minor",
+    "patch": {"n": "15", "op": "replace", "field": "hindi", "old": "सोम के साथ स्थित", "new": "सोम के सहित"}}
+  ]},
+  {"n": "16", "verdict": "ok", "issues": []},
+  {"n": "17", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "वसुओं के साथ स्थित", "problem": "'स्थित' is added; sahitam is only 'together with'.", "fix": "वसुओं के सहित", "severity": "minor",
+    "patch": {"n": "17", "op": "replace", "field": "hindi", "old": "वसुओं के साथ स्थित", "new": "वसुओं के सहित"}}
+  ]},
+  {"n": "18", "verdict": "fix", "issues": [
+   {"field": "english", "where": "And these other kings", "problem": "ete ca anye = 'these and others'; the Hindi has it right (ये और अन्य राजा) but the English drops the 'and' and reads ca as a sentence connector, so the two translations disagree.", "fix": "These and other kings, and your warriors, O Pāṇḍava, move together with the Gandharvas, and likewise with the Yakṣas and the Puṇyajanas.", "severity": "minor",
+    "patch": {"n": "18", "op": "replace", "field": "english", "old": "And these other kings and your warriors", "new": "These and other kings, and your warriors"}}
+  ]},
+  {"n": "19", "verdict": "ok", "issues": []}
+ ],
+ "summary": "20 units reviewed (P1, 1-19). Word splits, sandhi, glosses and grammar labels are sound throughout; no token mismatches, no invented variants, no text_flags needed, confidence 'high' is justified for every unit. 8 units need fixes, all in the translations: 2 error-severity (unit 2 bracketed gloss inside the Hindi; unit 9 'साक्षात्' added with no Sanskrit support) and 7 minor (unit 2 'divine' added in English; unit 3 bracketed carry-over clause in the Hindi; unit 8 alternative reading of enām praṣṭum unrecorded; unit 14 'वंश' added; units 15 and 17 'स्थित' added for sahitam; unit 18 English drops the 'and' of ete cānye and disagrees with the Hindi). No regrouping suggested; the three-line units 3, 13 and 14 follow the edition. Suggested GLOSSARY additions (fixed renderings used here): Govinda, Phalguna, Karṇa, Bhīmasena, Nakula, Sahadeva, Pāṇḍu, Kuntī, Mādrī, Bhīṣma, Droṇa, Abhimanyu, Sātyaki, Dhṛtarāṣṭra, Indra, Śrī, Drupada; kurunandana = delight of the Kurus (कुरुनन्दन); puruṣarṣabha = bull among men (पुरुषश्रेष्ठ); rājendra = O lord of kings (हे राजेन्द्र); pāṇḍava = O Pāṇḍava (हे पाण्डव)."
+}

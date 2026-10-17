@@ -1,0 +1,65 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "वहाँ उन्होंने गोविन्द को ब्रह्मसम्बन्धी (दिव्य) शरीर से युक्त देखा, जो पहले देखे हुए उसी सादृश्य से पहचाने जा रहे थे।",
+  "new": "वहाँ उन्होंने गोविन्द को ब्रह्मसम्बन्धी शरीर से युक्त देखा, जो पहले देखे हुए उसी सादृश्य से पहचाने जा रहे थे।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi; the brief forbids brackets in `hindi`. The literal sense of brāhmeṇa vapuṣā is just 'with a form pertaining to Brahman'."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "There he saw Govinda endowed with a divine (Brahman-like) form, made known by that very likeness seen before.",
+  "new": "There he saw Govinda endowed with a Brahman-like form, made known by that very likeness seen before.",
+  "why": "reviewer (minor): 'divine' is an interpretation added to brāhma ('pertaining to Brahman'); the note already explains it, so the translation should stay literal."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "(उन्होंने गोविन्द को देखा,) जो अपने शरीर से देदीप्यमान थे, चक्र आदि घोर दिव्य अस्त्रों से, जो पुरुष-रूप धारण किए हुए थे, सेवित थे, और तेजस्वी वीर फाल्गुन द्वारा उपासित थे।",
+  "new": "जो अपने शरीर से देदीप्यमान थे, चक्र आदि घोर दिव्य अस्त्रों से, जो पुरुष-रूप धारण किए हुए थे, सेवित थे, और तेजस्वी वीर फाल्गुन द्वारा उपासित थे।",
+  "why": "reviewer (minor): Bracketed carried-over clause in the Hindi; the brief allows no brackets in `hindi`. The unit is a continuation of unit 2 and can start with the relative clause; the note already says the accusatives qualify Govinda."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "asya (gen.) stands for the dative, 'to him'.",
+  "new": "asya (gen.) stands for the dative, 'to him'. enām praṣṭum: 'to question her' or 'to ask about her' (Indra's answer in 9-10 is about her); rendered 'question her'.",
+  "why": "reviewer (minor): enām praṣṭum can mean 'to ask her' or 'to ask about her' (Indra then speaks about her, which favours the second); the draft gives only one reading and does not record the alternative."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे युधिष्ठिर, यह द्रौपदी के रूप में साक्षात् श्री है, जो तुम्हारे लिए मानव-योनि में गई थी; यह अयोनिजा, लोकों की प्रिय और पवित्र सुगन्धवाली है।",
+  "new": "हे युधिष्ठिर, यह द्रौपदी के रूप में श्री है, जो तुम्हारे लिए मानव-योनि में गई थी; यह अयोनिजा, लोकों की प्रिय और पवित्र सुगन्धवाली है।",
+  "why": "reviewer (error): 'साक्षात्' is not in the Sanskrit (śrīr eṣā draupadīrūpā); unsupported emphasis added."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "और हे राजेन्द्र, साध्यों, देवताओं, वसुओं और मरुतों के भी गणों में वृष्णि और अन्धक वंश के महारथियों को, सात्यकि आदि वीरों को और भोज महारथियों को देखो।",
+  "new": "और हे राजेन्द्र, साध्यों, देवताओं, वसुओं और मरुतों के भी गणों में वृष्णियों और अन्धकों के महारथियों को, सात्यकि आदि वीरों को और भोज महारथियों को देखो।",
+  "why": "reviewer (minor): 'वंश' (lineage) is added; vṛṣṇi-andhaka-mahārathān is just 'the great chariot-warriors of the Vṛṣṇis and Andhakas'."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "सोम के साथ स्थित सुभद्रापुत्र, अपराजित, महाधनुर्धर अभिमन्यु को देखो, जिनकी कान्ति चन्द्रमा के समान है।",
+  "new": "सोम के सहित सुभद्रापुत्र, अपराजित, महाधनुर्धर अभिमन्यु को देखो, जिनकी कान्ति चन्द्रमा के समान है।",
+  "why": "reviewer (minor): 'स्थित' is added; sahitam is only 'together with'."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "वसुओं के साथ स्थित शान्तनुपुत्र राजा भीष्म को देखो; और बृहस्पति के पास इन गुरु द्रोण को देखो।",
+  "new": "वसुओं के सहित शान्तनुपुत्र राजा भीष्म को देखो; और बृहस्पति के पास इन गुरु द्रोण को देखो।",
+  "why": "reviewer (minor): 'स्थित' is added; sahitam is only 'together with'."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "And these other kings and your warriors, O Pāṇḍava, move together with the Gandharvas, and likewise with the Yakṣas and the Puṇyajanas.",
+  "new": "These and other kings, and your warriors, O Pāṇḍava, move together with the Gandharvas, and likewise with the Yakṣas and the Puṇyajanas.",
+  "why": "reviewer (minor): ete ca anye = 'these and others'; the Hindi has it right (ये और अन्य राजा) but the English drops the 'and' and reads ca as a sentence connector, so the two translations disagree."
+ }
+]

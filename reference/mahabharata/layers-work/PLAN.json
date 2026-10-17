@@ -10,7 +10,7 @@
    "first": "P1",
    "last": "26",
    "lines": 54,
-   "state": "pending",
+   "state": "checked",
    "dir": "p018/ch001"
   },
   {
@@ -46,7 +46,7 @@
    "first": "P1",
    "last": "19",
    "lines": 42,
-   "state": "pending",
+   "state": "merged",
    "dir": "p018/ch004"
   },
   {
