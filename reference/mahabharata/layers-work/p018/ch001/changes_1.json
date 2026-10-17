@@ -1,0 +1,95 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तुम्हारे पूर्वपितामह युधिष्ठिर आदि त्रिविष्टप स्वर्ग को प्राप्त करके जो कुछ करते थे, वह सुनो।",
+  "new": "तुम्हारे पूर्वपितामह युधिष्ठिर आदि त्रिविष्टप स्वर्ग को प्राप्त करके जो कुछ किया, वह सुनो।",
+  "why": "reviewer (minor): akurvata (impf.) is a simple narrative past ('what they did'); 'करते थे' is habitual/continuous and does not match the English 'did'."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Then Yudhiṣṭhira, having seen Duryodhana, grew indignant, and seeing such splendour upon Suyodhana he at once turned back,",
+  "new": "Then Yudhiṣṭhira, having seen Duryodhana, grew indignant, and seeing the splendour upon Suyodhana he at once turned back,",
+  "why": "reviewer (minor): 'such' is not in the Sanskrit (śriyam = 'the splendour'); the Hindi correctly has 'वह श्री'."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "saying loudly to them these words: \"I do not desire these worlds together with Duryodhana, the greedy and short-sighted one,",
+  "new": "saying loudly to them these words: \"I do not desire the worlds together with Duryodhana, the greedy and short-sighted one,",
+  "why": "reviewer (minor): lokān has no demonstrative; 'these' is added."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "और उनसे ऊँचे स्वर में यह वचन कहा: \"लोभी और अदूरदर्शी दुर्योधन के साथ रहकर मैं इन लोकों की कामना नहीं करता,",
+  "new": "और उनसे ऊँचे स्वर में यह वचन कहा: \"लोभी और अदूरदर्शी दुर्योधन के साथ रहकर मैं लोकों की कामना नहीं करता,",
+  "why": "reviewer (minor): Same addition in the Hindi ('इन' = these)."
+ },
+ {
+  "n": "8",
+  "field": "word.w",
+  "word": "hatāḥ",
+  "old": "hatāḥ",
+  "new": "hatā",
+  "why": "reviewer (error): Sandhi error. hatāḥ + asmābhiḥ would give 'hatā asmābhiḥ' (visarga of -āḥ drops before a vowel and the words stay apart, no merging). The printed single token hatāsmābhiḥ (ā + a > ā) can only be hatā + asmābhiḥ, i.e. f. nom. sg. agreeing with pṛthivī (sarvā); the masculine plurals suhṛdaḥ, bāndhavāḥ are carried along by the first subject. Translation is unaffected."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "hatāḥ (m. pl.) agrees with the whole list (earth, friends, kinsmen). kliṣṭaiḥ qualifies asmābhiḥ.",
+  "new": "hatā (f. sg.) agrees with pṛthivī sarvā; the merged sandhi hatā + asmābhiḥ requires the singular (hatāḥ + asmābhiḥ would stay 'hatā asmābhiḥ'); suhṛdaḥ and bāndhavāḥ are carried along by the first subject. kliṣṭaiḥ qualifies asmābhiḥ.",
+  "why": "reviewer (error): The note states the wrong agreement."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "और जिसके कारण धर्म का आचरण करने वाली, निर्दोष अंगों वाली हमारी पत्नी पांचाली द्रौपदी सभा के बीच गुरुजनों के समक्ष क्लेश दी गई।",
+  "new": "और जिसके कारण धर्म का आचरण करने वाली, निर्दोष अंगों वाली हमारी पत्नी पांचाली द्रौपदी सभा के बीच गुरुजनों के समक्ष क्लेश को प्राप्त हुई।",
+  "why": "reviewer (minor): 'पत्नी क्लेश दी गई' is not idiomatic Hindi (the object of 'क्लेश देना' needs 'को'); parikliṣṭā is a predicate adjective of Draupadī."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "mā evam = 'not thus', i.e. do not speak or act so. viruddham taken as a noun ('hostility'); it could also mean 'what is contrary'.",
+  "new": "mā evam = 'not thus', i.e. do not speak or act so. viruddham taken as a noun ('hostility'); it could also mean 'what is contrary'. 'this is' / 'here' (यह ... है / यहाँ) are supplied: literally 'dwelling in heaven, O lord of kings; even enmity perishes', i.e. for one dwelling in heaven enmity ceases.",
+  "why": "reviewer (minor): 'this is' and 'here' are supplied: the Sanskrit is only 'svarge nivāsaḥ' (nom.) followed by 'viruddhaṃ cāpi naśyati'. The reading is defensible but the supplied words should be recorded; the Hindi ('यह ... है; यहाँ') has the same additions."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "Alternative: 'is honoured by the thirty gods together with the good and foremost kings' (tridaśaiḥ as agent rather than companions).",
+  "new": "Alternative: 'is honoured by the thirty gods together with the good and foremost kings' (tridaśaiḥ as agent rather than companions). sadbhiḥ may also qualify rājapravaraiḥ ('by the good foremost kings') instead of being a separate noun.",
+  "why": "reviewer (minor): Not an error, but a second alternative is worth recording: sadbhiḥ can also be an adjective to rājapravaraiḥ ('by the good foremost kings') rather than a separate noun 'the good'. Medium confidence is honest."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "इसी ने क्षत्रिय-धर्म के द्वारा यह स्थान प्राप्त किया है; वह पृथ्वीपति महान भय में भी निर्भय रहा।",
+  "new": "इसी ने क्षत्रिय-धर्म के द्वारा यह स्थान प्राप्त किया है; वह पृथ्वीपति महान भय में निर्भय रहा।",
+  "why": "reviewer (minor): 'भी' (even) is not in the Sanskrit (bhaye mahati yo 'bhīto babhūva)."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "atha",
+  "old": "or",
+  "new": "or (with vā: atha vā)",
+  "why": "reviewer (minor): atha and vā here form the single disjunction 'atha vā' ('or else'); glossing atha alone as 'or' is misleading."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "Where are those kings, O brahmin? I do not see them, Nārada — Virāṭa and Drupada, and those headed by Dhṛṣṭaketu,",
+  "new": "Where are those kings, O brahmin? I do not see these, Nārada — Virāṭa and Drupada, and those headed by Dhṛṣṭaketu,",
+  "why": "reviewer (minor): etān is 'these' (the Hindi has 'इन्हें'); 'them' is a very slight loosening. Optional."
+ },
+ {
+  "n": "8",
+  "field": "words.hatā.gram",
+  "old": "m. nom. pl., ppp √han",
+  "new": "f. nom. sg., ppp √han",
+  "why": "review patch 2 failed (word already renamed by patch 1); applied by hand"
+ }
+]
