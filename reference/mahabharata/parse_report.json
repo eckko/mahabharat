@@ -1,0 +1,147 @@
+{
+ "joined_tex_hyphen": [
+  "mbh12.itx: mAlyAbharaNavastrAbhya~NgagandhopabhoganRRittagItavAditrashr"
+ ],
+ "before_first_chapter": [],
+ "orphan_lines": [
+  "mbh03.itx ch192: ['utta~NkamevamuktvA tu viShNurantaradhIyata |']",
+  "mbh03.itx ch241: ['vasamAn']",
+  "mbh09.itx ch38: ['tatrAjagAma balavAnbalabhadraH pratApavAn |']"
+ ],
+ "number_jumps": [
+  "mbh05.itx ch45: 26 -> 28",
+  "mbh08.itx ch22: 20 -> 22",
+  "mbh08.itx ch24: 109 -> 111",
+  "mbh08.itx ch27: 80 -> 82",
+  "mbh08.itx ch40: 82 -> 84",
+  "mbh09.itx ch15: 59 -> 61",
+  "mbh12.itx ch184: 10 -> 12",
+  "mbh12.itx ch329: 39 -> 41",
+  "mbh13.itx ch16: 2 -> 4",
+  "mbh13.itx ch45: 3 -> 5",
+  "mbh13.itx ch80: 5 -> 7",
+  "mbh13.itx ch100: 17 -> 19",
+  "mbh13.itx ch107: 27 -> 29",
+  "mbh13.itx ch107: 68 -> 70",
+  "mbh13.itx ch115: 6 -> 8",
+  "mbh13.itx ch127: 9 -> 11",
+  "mbh13.itx ch139: 15 -> 17",
+  "mbh13.itx ch144: 14 -> 16",
+  "mbh14.itx ch24: 12 -> 14",
+  "mbh16.itx ch2: 11 -> 13"
+ ],
+ "repeated_number": 4293,
+ "parts": {
+  "001": {
+   "chapters": 225,
+   "verses": 7196,
+   "lines": 15787,
+   "layout": "chapter files"
+  },
+  "002": {
+   "chapters": 72,
+   "verses": 2389,
+   "lines": 5149,
+   "layout": "chapter files"
+  },
+  "003": {
+   "chapters": 241,
+   "verses": 8361,
+   "lines": 18172,
+   "layout": "chapter files"
+  },
+  "004": {
+   "chapters": 67,
+   "verses": 1821,
+   "lines": 3997,
+   "layout": "chapter files"
+  },
+  "005": {
+   "chapters": 197,
+   "verses": 6061,
+   "lines": 12955,
+   "layout": "chapter files"
+  },
+  "006": {
+   "chapters": 117,
+   "verses": 5405,
+   "lines": 11452,
+   "layout": "chapter files"
+  },
+  "007": {
+   "chapters": 173,
+   "verses": 8152,
+   "lines": 17066,
+   "layout": "chapter files"
+  },
+  "008": {
+   "chapters": 69,
+   "verses": 3867,
+   "lines": 8216,
+   "layout": "chapter files"
+  },
+  "009": {
+   "chapters": 64,
+   "verses": 3313,
+   "lines": 7093,
+   "layout": "chapter files"
+  },
+  "010": {
+   "chapters": 18,
+   "verses": 772,
+   "lines": 1633,
+   "layout": "chapter files"
+  },
+  "011": {
+   "chapters": 27,
+   "verses": 730,
+   "lines": 1550,
+   "layout": "chapter files"
+  },
+  "012": {
+   "chapters": 353,
+   "verses": 12862,
+   "lines": 27685,
+   "layout": "chapter files"
+  },
+  "013": {
+   "chapters": 154,
+   "verses": 6521,
+   "lines": 14128,
+   "layout": "chapter files"
+  },
+  "014": {
+   "chapters": 96,
+   "verses": 2742,
+   "lines": 5939,
+   "layout": "chapter files"
+  },
+  "015": {
+   "chapters": 47,
+   "verses": 1062,
+   "lines": 2246,
+   "layout": "chapter files"
+  },
+  "016": {
+   "chapters": 9,
+   "verses": 272,
+   "lines": 569,
+   "layout": "part file"
+  },
+  "017": {
+   "chapters": 3,
+   "verses": 106,
+   "lines": 234,
+   "layout": "part file"
+  },
+  "018": {
+   "chapters": 5,
+   "verses": 194,
+   "lines": 410,
+   "layout": "part file"
+  }
+ },
+ "long_verses": [
+  "012.325.4: 41 lines stored as prose P-lines"
+ ]
+}
