@@ -1,0 +1,108 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "When Pṛthā's son, the king of dharma Yudhiṣṭhira, had stood there for a moment, O Kauravya, the gods, led by Śakra, came to that place.",
+  "new": "When Pṛthā's son, the king of dharma Yudhiṣṭhira, had stood for a moment, O Kauravya, the gods, led by Śakra, came to that place.",
+  "why": "reviewer (minor): tatra occurs once, in line b with ājagmuḥ; the draft renders it twice ('stood there' and 'came to that place'). Line a has no 'there'."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे कौरव्य, जब पृथापुत्र धर्मराज युधिष्ठिर वहाँ एक मुहूर्त ठहरे रहे, तब शक्र को आगे किये हुए देवता वहाँ आ पहुँचे।",
+  "new": "हे कौरव्य, जब पृथापुत्र धर्मराज युधिष्ठिर एक मुहूर्त ठहरे रहे, तब शक्र को आगे किये हुए देवता वहाँ आ पहुँचे।",
+  "why": "reviewer (minor): Same doubling of tatra in Hindi (वहाँ twice)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "When those gods of radiant bodies, of holy birth and deeds, had assembled there, O king, that darkness vanished.",
+  "new": "When those gods of radiant bodies, of holy birth and deeds, had assembled, O king, that darkness vanished.",
+  "why": "reviewer (minor): No tatra in the verse; 'there' is added."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे नृप, जब वे देदीप्यमान शरीर वाले, पवित्र कुल और कर्म वाले देवता वहाँ एकत्र हुए, तब वह अन्धकार दूर हो गया।",
+  "new": "हे नृप, जब वे देदीप्यमान शरीर वाले, पवित्र कुल और कर्म वाले देवता एकत्र हुए, तब वह अन्धकार दूर हो गया।",
+  "why": "reviewer (minor): वहाँ added; the Sanskrit has no tatra."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "Bull among men, there are two heaps, of good deeds and of bad. He who first enjoys the fruit of his good deeds goes to hell afterwards; but he whose lot is hell first attains heaven afterwards.",
+  "new": "Bull among men, there are two heaps, of good deeds and of bad. He who first enjoys his good deeds goes to hell afterwards; but he whose lot is hell first attains heaven afterwards.",
+  "why": "reviewer (minor): sukṛtaṃ bhuṅkte = 'enjoys his merit/good deeds'; 'the fruit of' is not in the Sanskrit."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "हे पुरुषर्षभ, शुभ और अशुभ कर्मों की दो राशियाँ होती हैं। जो पहले अपने सुकृत का फल भोगता है, वह बाद में नरक जाता है; और जिसके भाग्य में पहले नरक है, वह बाद में स्वर्ग को प्राप्त होता है।",
+  "new": "हे पुरुषर्षभ, शुभ और अशुभ कर्मों की दो राशियाँ होती हैं। जो पहले अपना सुकृत भोगता है, वह बाद में नरक जाता है; और जिसके भाग्य में पहले नरक है, वह बाद में स्वर्ग को प्राप्त होता है।",
+  "why": "reviewer (minor): फल added; the Sanskrit has only sukṛtam."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Come, tiger among men; they are all freed from sin. And the kings of your own side who were slain in battle for you have all reached heaven; see them, bull among men.",
+  "new": "Come, tiger among men; they too are freed from sin. And the kings of your own side who were slain in battle for you have all reached heaven; see them, bull among men.",
+  "why": "reviewer (minor): muktās te caiva: 'and they too are freed'; 'all' is not in line a (sarve belongs to line c)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "आओ, हे नरशार्दूल; वे सब पाप से मुक्त हो गये हैं। और तुम्हारे पक्ष के जो राजा तुम्हारे लिए रण में मारे गये, वे सब स्वर्ग को प्राप्त हो गये हैं; हे पुरुषर्षभ, उन्हें देखो।",
+  "new": "आओ, हे नरशार्दूल; वे भी पाप से मुक्त हो गये हैं। और तुम्हारे पक्ष के जो राजा तुम्हारे लिए रण में मारे गये, वे सब स्वर्ग को प्राप्त हो गये हैं; हे पुरुषर्षभ, उन्हें देखो।",
+  "why": "reviewer (minor): सब added in line a (sarve is in line c, already rendered there as वे सब)."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "upasevantu",
+  "old": "3 pl. impv. mid. upa-√sev",
+  "new": "3 pl. impv. upa-√sev",
+  "why": "reviewer (error): upasevantu is the parasmaipada (active) 3 pl. imperative (-antu); the middle form would be upasevantām. Label 'mid.' is wrong."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "devagandharvāḥ could also be 'the divine Gandharvas' (karmadhāraya). virajombara = virajas + ambara (virajo'mbara), printed without avagraha. virajombaravāsasaḥ (m. nom. pl.) is taken with all the attendants; it agrees in form with devagandharvāḥ.",
+  "new": "devagandharvāḥ could also be 'the divine Gandharvas' (karmadhāraya). virajombara = virajas + ambara (virajo'mbara), printed without avagraha. virajombaravāsasaḥ (m. nom. pl.) is taken with all the attendants; it agrees in form with devagandharvāḥ. kalyāṇam could also be adverbial (n. acc.) 'auspiciously, well' rather than an epithet of tvām; the translation keeps the epithet reading.",
+  "why": "reviewer (minor): kalyāṇam is taken as acc. m. agreeing with tvām ('you, blessed one'); it can equally be adverbial n. acc. ('attend upon you auspiciously / well'). The alternative should be recorded; medium confidence is right."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "For your worlds, Yudhiṣṭhira, are far above those of other kings; they are equal to Hariścandra's, O Pārtha, and in them you shall roam.",
+  "new": "For your worlds, Yudhiṣṭhira, are far above those of kings; they are equal to Hariścandra's, O Pārtha, and in them you shall roam.",
+  "why": "reviewer (minor): rājñām = 'of kings'; 'other' is added."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "हे युधिष्ठिर, तुम्हारे लोक अन्य राजाओं के लोकों से भी ऊपर हैं; हे पार्थ, वे हरिश्चन्द्र के लोकों के समान हैं, जिनमें तुम विहार करोगे।",
+  "new": "हे युधिष्ठिर, तुम्हारे लोक राजाओं के लोकों से बहुत ऊपर हैं; हे पार्थ, वे हरिश्चन्द्र के लोकों के समान हैं, जिनमें तुम विहार करोगे।",
+  "why": "reviewer (minor): अन्य and भी added; the Sanskrit has only rājñām uparyupari."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "यह तीसरी परीक्षा है कि तुम भाइयों के लिए यहाँ ठहरना चाहते हो। हे महाभाग, तुम विशुद्ध हो, सुखी हो और पापरहित हो।",
+  "new": "यह तीसरी परीक्षा है कि तुम भाइयों के लिए ठहरना चाहते हो। हे महाभाग, तुम विशुद्ध हो, सुखी हो और पापरहित हो।",
+  "why": "reviewer (minor): यहाँ (here) added; sthātum icchasi has no 'here'. (परीक्षा is supplied from verse 30's tṛtīyā jijñāsā and is acceptable as the referent of idaṃ tṛtīyam.)"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "हे पार्थ, हे प्रजापति, तुम्हारे भाई नरक में नहीं हैं; यह तो देवराज महेन्द्र द्वारा रची गयी माया थी।",
+  "new": "हे पार्थ, हे प्रजाओं के स्वामी, तुम्हारे भाई नरक में नहीं हैं; यह तो देवराज महेन्द्र द्वारा रची गयी माया थी।",
+  "why": "reviewer (minor): viśāṃ pate = 'lord of the people'; प्रजापति in Hindi reads as the creator-god's name, which misleads."
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "savyasācī is Arjuna's epithet; the line uses only the epithet.",
+  "new": "savyasācī is Arjuna's epithet; the line uses only the epithet. satyavākṣūro = satyavāk + śūraḥ; the printed kṣ stands for the sandhi k + ś (kś / kch), as commonly written; not a typo.",
+  "why": "reviewer (minor): The split satya-vāk + śūraḥ is right, but the printed kṣ (सत्यवाक्षूरो) for vāk + śūra is an orthographic rendering of k + ś (kś, optionally kch); the draft does not say so, and a reader may look for a word 'ṣūra'."
+ }
+]

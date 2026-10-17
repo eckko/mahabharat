@@ -1,0 +1,126 @@
+[
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "इस प्रकार कहे जाने पर वह ब्रह्मर्षि, महात्मा व्यास की अनुमति पाकर, उस राजा को बताने लगा।",
+  "new": "इस प्रकार कहे जाने पर वह विप्रर्षि, महात्मा व्यास की अनुमति पाकर, उस राजा को बताने लगा।",
+  "why": "reviewer (minor): viprarṣi is 'brahmin sage' (vipra + ṛṣi); ब्रह्मर्षि renders a different word (brahmarṣi). English has it right."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे मनुजाधिप, कर्मों के अन्त में सबको जाना ही पड़ता है। हे राजन्, हे भरतर्षभ, देवताओं का यह रहस्य सुनो, जिसे महातेजस्वी, दिव्य दृष्टि वाले, प्रतापी मुनि ने कहा था —",
+  "new": "हे मनुजाधिप, कर्मों के अन्त में सबको जाना ही पड़ता है। हे राजन्, हे भरतर्षभ, देवताओं का यह रहस्य सुनो, जिसे महातेजस्वी, दिव्य दृष्टि वाले, उस प्रतापी ने कहा था —",
+  "why": "reviewer (minor): 'मुनि' is not in verse 7 (muniḥ comes only in verse 8); the English correctly says 'the mighty one'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "— वह पुराण मुनि, हे कौरव्य, पराशर-पुत्र, महान व्रत वाले, अगाध बुद्धि वाले, सर्वज्ञ, जो सभी कर्मों की गति को जानते हैं।",
+  "new": "— वह पुरातन मुनि, हे कौरव्य, पराशर-पुत्र, महान व्रत वाले, अगाध बुद्धि वाले, सर्वज्ञ, जो सभी कर्मों की गति को जानते हैं।",
+  "why": "reviewer (minor): purāṇaḥ here is the adjective 'ancient'; in Hindi 'पुराण' reads as the Purāṇa texts."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "viśveṣām",
+  "old": "of the Viśva (all-)",
+  "new": "of the Viśve (all)",
+  "why": "reviewer (minor): Gloss 'of the Viśva (all-)' is garbled; the word is the pronoun/adjective viśva 'all', used here as the fixed name of the Viśve (devāḥ)."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "divam",
+  "old": "m. acc. sg.",
+  "new": "f. acc. sg.",
+  "why": "reviewer (minor): div 'heaven/sky' is feminine (dyauḥ, divam, divā); label says m."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "",
+  "new": "Alternative construal: 'and the Rākṣasas who were described as allies of Duryodhana' (parikīrtitāḥ predicating duryodhana-sahāyāḥ); the sense is the same group either way.",
+  "why": "reviewer (minor): The line can equally be construed 'and the Rākṣasas who were described as Duryodhana's allies' (parikīrtitāḥ with sahāyāḥ as predicate); the draft chose one construal without noting the other."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "No finite verb in verses 31-34; 'composed' is supplied. niyatam taken as an adverb ('assuredly'); it could also be read as an adjective of the sage ('self-controlled'), which would need niyatena. Kṛṣṇa here is Kṛṣṇa Dvaipāyana (Vyāsa), as verse 41 shows.",
+  "new": "No finite verb in verses 31-34; 'composed' is supplied. niyatam taken as an adverb ('assuredly'); it could also be read as an adjective of the sage ('self-controlled'), which would need niyatena. Kṛṣṇa here is Kṛṣṇa Dvaipāyana (Vyāsa), as verse 41 shows. A second alternative: niyatam as n. nom. sg. agreeing with idam ('this supreme, purifying, ordained [work]'), with no change of form; also as adverb it may mean 'regularly, constantly' rather than 'assuredly'. Medium confidence stands.",
+  "why": "reviewer (minor): The adverb reading ('assuredly'; also 'regularly, constantly') is acceptable and the supplied verb is honestly noted, but the note omits the nearest grammatical alternative: niyatam as n. nom. sg. agreeing with idam ('and this supreme, purifying, established/ordained [work]'), which needs no change of form. The rejected alternative it does give (niyatena) is a red herring."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "हे विप्र, यह इतिहास नामक पुण्य ग्रन्थ और यह उत्तम पवित्र वस्तु निश्चय ही सत्यवादी कृष्ण मुनि के द्वारा रची गई है —",
+  "new": "हे विप्र, यह इतिहास नामक ग्रन्थ पुण्य है और यह उत्तम और पावन है; यह निश्चय ही सत्यवादी कृष्ण मुनि के द्वारा रची गई है —",
+  "why": "reviewer (minor): 'वस्तु' is a supplied head noun that reads oddly for a text; the English 'thing' has the same problem but is tolerable. Prefer the neuter adjectives alone, as in the Sanskrit."
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "na-eka-tantra-vibuddhena",
+  "old": "m. inst. sg., bahuvrīhi",
+  "new": "m. inst. sg., tat-puruṣa",
+  "why": "reviewer (minor): vibuddha is the final member and a past participle ('awakened/enlightened by not-one, i.e. many, systems'): an instrumental tat-puruṣa, not a bahuvrīhi."
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "anāgatam",
+  "old": "without pause (lit. not come)",
+  "new": "not (yet) come into being; sense unclear",
+  "why": "reviewer (error): 'without pause' is not a meaning of anāgata (an-āgata = 'not come, not arrived; future; unforeseen'). The draft admits the word is unclear but then asserts an invented sense in gloss, Hindi ('बिना रुके') and English ('without pause'). The form is most simply n. acc. sg. agreeing with saṃdarbham ('the composition ... which had not [previously] come into being'); an adverbial 'in advance / beforehand' (future-looking, cf. dṛṣṭvā divyena cakṣuṣā in 33) is the other defensible option. Neither supports 'without pause'."
+ },
+ {
+  "n": "41",
+  "field": "word.gram",
+  "word": "anāgatam",
+  "old": "ind.",
+  "new": "n. acc. sg., ppp an-ā-√gam (or adv.)",
+  "why": "reviewer (minor): Labelled 'ind.'; the plain form is n. acc. sg. (ppp ā-√gam with an-), whether taken with saṃdarbham or adverbially."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "In three years, without pause, the lord Kṛṣṇa Dvaipāyana made the composition of this Bhārata out of desire for dharma.",
+  "new": "In three years the lord Kṛṣṇa Dvaipāyana, out of desire for dharma, made the composition of this Bhārata, which had not (yet) come into being.",
+  "why": "reviewer (error): Carries the unsupported 'without pause'. Give the literal rendering and leave the doubt to notes."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "तीन वर्षों में, बिना रुके, प्रभु कृष्ण द्वैपायन ने धर्म की कामना से इस भारत की रचना की।",
+  "new": "तीन वर्षों में प्रभु कृष्ण द्वैपायन ने धर्म की कामना से इस भारत की वह रचना की जो अब तक नहीं हुई थी।",
+  "why": "reviewer (error): Same unsupported sense in Hindi."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "anāgatam is unclear here: taken adverbially as 'without pause / continuously'; literally 'not (yet) come', so 'in advance' is also possible. Some versions read differently (sadotthāyī, 'always rising').",
+  "new": "anāgatam is doubtful here. Taken as n. acc. sg. agreeing with saṃdarbham: 'the composition (of this Bhārata) that had not yet come into being'. Alternative: adverbial 'in advance, beforehand' (he composed, with divine sight, what was still to come). 'Without pause' has no lexical support. The parallel verse in the Ādiparvan reads tribhir varṣaiḥ sadotthāyī ('ever diligent') instead; that is a different verse, not a variant of this line.",
+  "why": "reviewer (minor): An unsourced 'some versions read' is exactly the invented-variant pattern the brief forbids. The sadotthāyī reading belongs to the parallel verse in the Ādiparvan (tribhir varṣaiḥ sadotthāyī kṛṣṇadvaipāyano muniḥ ...), not to a witness of this line; say so or drop it. Rewrite the note to match the corrected reading."
+ },
+ {
+  "n": "41",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): The key word has no settled sense and the translation depends on it."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "महर्षि भगवान् व्यास ने पहले इस संहिता को रचकर, उन भगवान् ने अपने पुत्र शुक को चार श्लोकों में पढ़ाया।",
+  "new": "महर्षि भगवान् व्यास ने पहले इस संहिता को रचा और फिर उन भगवान् ने अपने पुत्र शुक को चार श्लोकों में पढ़ाया।",
+  "why": "reviewer (minor): Two ergative subjects ('व्यास ने ... उन भगवान् ने') on one finite verb is ungrammatical Hindi."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "भुजाएँ ऊपर उठाकर मैं पुकारता हूँ, पर कोई मेरी नहीं सुनता: धर्म से ही अर्थ और काम मिलते हैं — फिर उसका सेवन क्यों नहीं किया जाता?",
+  "new": "भुजाएँ ऊपर उठाकर मैं पुकारता हूँ, पर कोई मेरी नहीं सुनता: धर्म से अर्थ और काम मिलते हैं — फिर उसका सेवन क्यों नहीं किया जाता?",
+  "why": "reviewer (minor): 'ही' adds an emphasis ('only from dharma') that the Sanskrit (dharmād arthaś ca kāmaś ca) does not have; the English rightly has none."
+ }
+]

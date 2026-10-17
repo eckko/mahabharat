@@ -1,0 +1,108 @@
+{
+ "units": [
+  {"n": "P1", "verdict": "ok", "issues": []},
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "P2", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "ब्रह्मर्षि", "problem": "viprarṣi is 'brahmin sage' (vipra + ṛṣi); ब्रह्मर्षि renders a different word (brahmarṣi). English has it right.", "fix": "विप्रर्षि", "severity": "minor",
+    "patch": {"n": "6", "op": "replace", "field": "hindi", "old": "वह ब्रह्मर्षि", "new": "वह विप्रर्षि"}}
+  ]},
+  {"n": "P3", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "प्रतापी मुनि ने कहा था", "problem": "'मुनि' is not in verse 7 (muniḥ comes only in verse 8); the English correctly says 'the mighty one'.", "fix": "उस प्रतापी ने कहा था", "severity": "minor",
+    "patch": {"n": "7", "op": "replace", "field": "hindi", "old": "प्रतापी मुनि ने कहा था", "new": "उस प्रतापी ने कहा था"}}
+  ]},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "पुराण मुनि", "problem": "purāṇaḥ here is the adjective 'ancient'; in Hindi 'पुराण' reads as the Purāṇa texts.", "fix": "पुरातन मुनि", "severity": "minor",
+    "patch": {"n": "8", "op": "replace", "field": "hindi", "old": "वह पुराण मुनि", "new": "वह पुरातन मुनि"}}
+  ]},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "ok", "issues": []},
+  {"n": "15", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "viśveṣām", "problem": "Gloss 'of the Viśva (all-)' is garbled; the word is the pronoun/adjective viśva 'all', used here as the fixed name of the Viśve (devāḥ).", "fix": "of the Viśve (all)", "severity": "minor",
+    "patch": {"n": "15", "op": "word", "match_w": "viśveṣām", "field": "gloss", "value": "of the Viśve (all)"}}
+  ]},
+  {"n": "16", "verdict": "ok", "issues": []},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "divam", "problem": "div 'heaven/sky' is feminine (dyauḥ, divam, divā); label says m.", "fix": "f. acc. sg.", "severity": "minor",
+    "patch": {"n": "19", "op": "word", "match_w": "divam", "field": "gram", "value": "f. acc. sg."}}
+  ]},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "duryodhanasahāyāśca rākṣasāḥ parikīrtitāḥ", "problem": "The line can equally be construed 'and the Rākṣasas who were described as Duryodhana's allies' (parikīrtitāḥ with sahāyāḥ as predicate); the draft chose one construal without noting the other.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "23", "op": "append_note", "text": "Alternative construal: 'and the Rākṣasas who were described as allies of Duryodhana' (parikīrtitāḥ predicating duryodhana-sahāyāḥ); the sense is the same group either way."}}
+  ]},
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "P4", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "ok", "issues": []},
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {"n": "29", "verdict": "ok", "issues": []},
+  {"n": "30", "verdict": "ok", "issues": []},
+  {"n": "31", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "niyataṃ", "problem": "The adverb reading ('assuredly'; also 'regularly, constantly') is acceptable and the supplied verb is honestly noted, but the note omits the nearest grammatical alternative: niyatam as n. nom. sg. agreeing with idam ('and this supreme, purifying, established/ordained [work]'), which needs no change of form. The rejected alternative it does give (niyatena) is a red herring.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "31", "op": "append_note", "text": "A second alternative: niyatam as n. nom. sg. agreeing with idam ('this supreme, purifying, ordained [work]'), with no change of form; also as adverb it may mean 'regularly, constantly' rather than 'assuredly'. Medium confidence stands."}},
+   {"field": "hindi", "where": "यह उत्तम पवित्र वस्तु", "problem": "'वस्तु' is a supplied head noun that reads oddly for a text; the English 'thing' has the same problem but is tolerable. Prefer the neuter adjectives alone, as in the Sanskrit.", "fix": "यह उत्तम और पावन", "severity": "minor",
+    "patch": {"n": "31", "op": "replace", "field": "hindi", "old": "यह इतिहास नामक पुण्य ग्रन्थ और यह उत्तम पवित्र वस्तु निश्चय ही", "new": "यह इतिहास नामक ग्रन्थ पुण्य है और यह उत्तम और पावन है; यह निश्चय ही"}}
+  ]},
+  {"n": "32", "verdict": "ok", "issues": []},
+  {"n": "33", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "na-eka-tantra-vibuddhena", "problem": "vibuddha is the final member and a past participle ('awakened/enlightened by not-one, i.e. many, systems'): an instrumental tat-puruṣa, not a bahuvrīhi.", "fix": "m. inst. sg., tat-puruṣa", "severity": "minor",
+    "patch": {"n": "33", "op": "word", "match_w": "na-eka-tantra-vibuddhena", "field": "gram", "value": "m. inst. sg., tat-puruṣa"}}
+  ]},
+  {"n": "34", "verdict": "ok", "issues": []},
+  {"n": "35", "verdict": "ok", "issues": []},
+  {"n": "36", "verdict": "ok", "issues": []},
+  {"n": "37", "verdict": "ok", "issues": []},
+  {"n": "38", "verdict": "ok", "issues": []},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "ok", "issues": []},
+  {"n": "41", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "anāgatam", "problem": "'without pause' is not a meaning of anāgata (an-āgata = 'not come, not arrived; future; unforeseen'). The draft admits the word is unclear but then asserts an invented sense in gloss, Hindi ('बिना रुके') and English ('without pause'). The form is most simply n. acc. sg. agreeing with saṃdarbham ('the composition ... which had not [previously] come into being'); an adverbial 'in advance / beforehand' (future-looking, cf. dṛṣṭvā divyena cakṣuṣā in 33) is the other defensible option. Neither supports 'without pause'.", "fix": "not (yet) come into being; sense unclear", "severity": "error",
+    "patch": {"n": "41", "op": "word", "match_w": "anāgatam", "field": "gloss", "value": "not (yet) come into being; sense unclear"}},
+   {"field": "gram", "where": "anāgatam", "problem": "Labelled 'ind.'; the plain form is n. acc. sg. (ppp ā-√gam with an-), whether taken with saṃdarbham or adverbially.", "fix": "n. acc. sg., ppp an-ā-√gam (or adv.)", "severity": "minor",
+    "patch": {"n": "41", "op": "word", "match_w": "anāgatam", "field": "gram", "value": "n. acc. sg., ppp an-ā-√gam (or adv.)"}},
+   {"field": "english", "where": "In three years, without pause,", "problem": "Carries the unsupported 'without pause'. Give the literal rendering and leave the doubt to notes.", "fix": "In three years the lord Kṛṣṇa Dvaipāyana, out of desire for dharma, made the composition of this Bhārata, which had not (yet) come into being.", "severity": "error",
+    "patch": {"n": "41", "op": "set", "field": "english", "value": "In three years the lord Kṛṣṇa Dvaipāyana, out of desire for dharma, made the composition of this Bhārata, which had not (yet) come into being."}},
+   {"field": "hindi", "where": "बिना रुके", "problem": "Same unsupported sense in Hindi.", "fix": "तीन वर्षों में प्रभु कृष्ण द्वैपायन ने धर्म की कामना से इस भारत की वह रचना की जो अब तक नहीं हुई थी।", "severity": "error",
+    "patch": {"n": "41", "op": "set", "field": "hindi", "value": "तीन वर्षों में प्रभु कृष्ण द्वैपायन ने धर्म की कामना से इस भारत की वह रचना की जो अब तक नहीं हुई थी।"}},
+   {"field": "notes", "where": "Some versions read differently (sadotthāyī, 'always rising')", "problem": "An unsourced 'some versions read' is exactly the invented-variant pattern the brief forbids. The sadotthāyī reading belongs to the parallel verse in the Ādiparvan (tribhir varṣaiḥ sadotthāyī kṛṣṇadvaipāyano muniḥ ...), not to a witness of this line; say so or drop it. Rewrite the note to match the corrected reading.", "fix": "replace note", "severity": "minor",
+    "patch": {"n": "41", "op": "set", "field": "notes", "value": "anāgatam is doubtful here. Taken as n. acc. sg. agreeing with saṃdarbham: 'the composition (of this Bhārata) that had not yet come into being'. Alternative: adverbial 'in advance, beforehand' (he composed, with divine sight, what was still to come). 'Without pause' has no lexical support. The parallel verse in the Ādiparvan reads tribhir varṣaiḥ sadotthāyī ('ever diligent') instead; that is a different verse, not a variant of this line."}},
+   {"field": "confidence", "where": "medium", "problem": "The key word has no settled sense and the translation depends on it.", "fix": "low", "severity": "minor",
+    "patch": {"n": "41", "op": "set", "field": "confidence", "value": "low"}}
+  ]},
+  {"n": "42", "verdict": "ok", "issues": []},
+  {"n": "43", "verdict": "ok", "issues": []},
+  {"n": "44", "verdict": "ok", "issues": []},
+  {"n": "45", "verdict": "ok", "issues": []},
+  {"n": "46", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "व्यास ने ... रचकर, उन भगवान् ने ... पढ़ाया", "problem": "Two ergative subjects ('व्यास ने ... उन भगवान् ने') on one finite verb is ungrammatical Hindi.", "fix": "महर्षि भगवान् व्यास ने पहले इस संहिता को रचा और फिर उन भगवान् ने अपने पुत्र शुक को चार श्लोकों में पढ़ाया।", "severity": "minor",
+    "patch": {"n": "46", "op": "set", "field": "hindi", "value": "महर्षि भगवान् व्यास ने पहले इस संहिता को रचा और फिर उन भगवान् ने अपने पुत्र शुक को चार श्लोकों में पढ़ाया।"}}
+  ]},
+  {"n": "47", "verdict": "ok", "issues": []},
+  {"n": "48", "verdict": "ok", "issues": []},
+  {"n": "49", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "धर्म से ही अर्थ और काम मिलते हैं", "problem": "'ही' adds an emphasis ('only from dharma') that the Sanskrit (dharmād arthaś ca kāmaś ca) does not have; the English rightly has none.", "fix": "धर्म से अर्थ और काम मिलते हैं", "severity": "minor",
+    "patch": {"n": "49", "op": "replace", "field": "hindi", "old": "धर्म से ही अर्थ और काम मिलते हैं", "new": "धर्म से अर्थ और काम मिलते हैं"}}
+  ]},
+  {"n": "50", "verdict": "ok", "issues": []},
+  {"n": "51", "verdict": "ok", "issues": []},
+  {"n": "52", "verdict": "ok", "issues": []},
+  {"n": "53", "verdict": "ok", "issues": []},
+  {"n": "54", "verdict": "ok", "issues": []}
+ ],
+ "summary": "58 units reviewed (54 verses, 4 speaker lines); 11 units get 'fix', 47 'ok'. 1 error-severity issue: unit 41, where the draft turns the doubtful anāgatam into an invented sense 'without pause' in gloss, Hindi and English and cites an unsourced 'some versions read' (the sadotthāyī reading is the Ādiparvan parallel, not a witness of this line); patches give the literal reading, a corrected note and confidence low. Unit 31 (niyatam): the adverb reading and the supplied 'composed' are acceptable and honestly noted; patch adds the missed n. nom. sg. alternative agreeing with idam and tidies the Hindi; medium confidence stands. Remaining issues are minor: Hindi word choice (6 ब्रह्मर्षि→विप्रर्षि, 8 पुराण→पुरातन), a supplied 'मुनि' in 7, an added 'ही' in 49, a double ergative in 46, two gram labels (19 divam f., 33 tat-puruṣa), a garbled gloss in 15, and a missing alternative construal in 23. Token coverage, sandhi, name lists and the long verses 50 and 54 are sound; no regrouping suggested. Glossary additions for consistency across chunks: Kṛṣṇa Dvaipāyana (कृष्ण द्वैपायन), Vyāsa (व्यास), Śaunaka (शौनक), sūta = the Sūta (सूत), itihāsa kept as itihāsa (इतिहास), Jaya (जय)."
+}

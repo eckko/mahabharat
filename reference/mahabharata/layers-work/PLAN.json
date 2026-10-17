@@ -1,0 +1,65 @@
+{
+ "units_per_chunk": 40,
+ "chunks": [
+  {
+   "id": "p018-c001-k1",
+   "part": "018",
+   "chapter": "001",
+   "k": 1,
+   "units": 28,
+   "first": "P1",
+   "last": "26",
+   "lines": 54,
+   "state": "written",
+   "dir": "p018/ch001"
+  },
+  {
+   "id": "p018-c002-k1",
+   "part": "018",
+   "chapter": "002",
+   "k": 1,
+   "units": 57,
+   "first": "P1",
+   "last": "54",
+   "lines": 111,
+   "state": "written",
+   "dir": "p018/ch002"
+  },
+  {
+   "id": "p018-c003-k1",
+   "part": "018",
+   "chapter": "003",
+   "k": 1,
+   "units": 42,
+   "first": "P1",
+   "last": "41",
+   "lines": 87,
+   "state": "written",
+   "dir": "p018/ch003"
+  },
+  {
+   "id": "p018-c004-k1",
+   "part": "018",
+   "chapter": "004",
+   "k": 1,
+   "units": 20,
+   "first": "P1",
+   "last": "19",
+   "lines": 42,
+   "state": "written",
+   "dir": "p018/ch004"
+  },
+  {
+   "id": "p018-c005-k1",
+   "part": "018",
+   "chapter": "005",
+   "k": 1,
+   "units": 58,
+   "first": "P1",
+   "last": "54",
+   "lines": 116,
+   "state": "written",
+   "dir": "p018/ch005"
+  }
+ ]
+}

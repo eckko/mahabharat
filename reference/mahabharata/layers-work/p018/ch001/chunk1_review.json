@@ -1,0 +1,75 @@
+{
+ "units": [
+  {"n": "P1", "verdict": "ok", "issues": []},
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "P2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "जो कुछ करते थे", "problem": "akurvata (impf.) is a simple narrative past ('what they did'); 'करते थे' is habitual/continuous and does not match the English 'did'.", "fix": "जो कुछ किया", "severity": "minor",
+    "patch": {"n": "3", "op": "replace", "field": "hindi", "old": "जो कुछ करते थे", "new": "जो कुछ किया"}}
+  ]},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "english", "where": "seeing such splendour", "problem": "'such' is not in the Sanskrit (śriyam = 'the splendour'); the Hindi correctly has 'वह श्री'.", "fix": "seeing the splendour", "severity": "minor",
+    "patch": {"n": "6", "op": "replace", "field": "english", "old": "seeing such splendour", "new": "seeing the splendour"}}
+  ]},
+  {"n": "7", "verdict": "fix", "issues": [
+   {"field": "english", "where": "these worlds", "problem": "lokān has no demonstrative; 'these' is added.", "fix": "the worlds", "severity": "minor",
+    "patch": {"n": "7", "op": "replace", "field": "english", "old": "I do not desire these worlds", "new": "I do not desire the worlds"}},
+   {"field": "hindi", "where": "इन लोकों", "problem": "Same addition in the Hindi ('इन' = these).", "fix": "लोकों", "severity": "minor",
+    "patch": {"n": "7", "op": "replace", "field": "hindi", "old": "मैं इन लोकों की", "new": "मैं लोकों की"}}
+  ]},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "split", "where": "hatāsmābhiḥ -> hatāḥ", "problem": "Sandhi error. hatāḥ + asmābhiḥ would give 'hatā asmābhiḥ' (visarga of -āḥ drops before a vowel and the words stay apart, no merging). The printed single token hatāsmābhiḥ (ā + a > ā) can only be hatā + asmābhiḥ, i.e. f. nom. sg. agreeing with pṛthivī (sarvā); the masculine plurals suhṛdaḥ, bāndhavāḥ are carried along by the first subject. Translation is unaffected.", "fix": "hatā, f. nom. sg., ppp √han", "severity": "error",
+    "patch": {"n": "8", "op": "word", "match_w": "hatāḥ", "field": "w", "value": "hatā"}},
+   {"field": "gram", "where": "hatāḥ", "problem": "Follows from the split fix.", "fix": "f. nom. sg., ppp √han", "severity": "error",
+    "patch": {"n": "8", "op": "word", "match_w": "hatāḥ", "field": "gram", "value": "f. nom. sg., ppp √han"}},
+   {"field": "notes", "where": "hatāḥ (m. pl.) agrees with the whole list", "problem": "The note states the wrong agreement.", "fix": "hatā (f. sg.) agrees with pṛthivī sarvā; the merged sandhi hatā + asmābhiḥ requires the singular (hatāḥ + asmābhiḥ would stay 'hatā asmābhiḥ'); suhṛdaḥ and bāndhavāḥ are carried along by the first subject. kliṣṭaiḥ qualifies asmābhiḥ.", "severity": "error",
+    "patch": {"n": "8", "op": "set", "field": "notes", "value": "hatā (f. sg.) agrees with pṛthivī sarvā; the merged sandhi hatā + asmābhiḥ requires the singular (hatāḥ + asmābhiḥ would stay 'hatā asmābhiḥ'); suhṛdaḥ and bāndhavāḥ are carried along by the first subject. kliṣṭaiḥ qualifies asmābhiḥ."}}
+  ]},
+  {"n": "9", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "पत्नी ... क्लेश दी गई", "problem": "'पत्नी क्लेश दी गई' is not idiomatic Hindi (the object of 'क्लेश देना' needs 'को'); parikliṣṭā is a predicate adjective of Draupadī.", "fix": "...हमारी पत्नी पांचाली द्रौपदी सभा के बीच गुरुजनों के समक्ष क्लेश को प्राप्त हुई।", "severity": "minor",
+    "patch": {"n": "9", "op": "replace", "field": "hindi", "old": "गुरुजनों के समक्ष क्लेश दी गई।", "new": "गुरुजनों के समक्ष क्लेश को प्राप्त हुई।"}}
+  ]},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "fix", "issues": [
+   {"field": "english", "where": "this is a dwelling in heaven; here even enmity perishes", "problem": "'this is' and 'here' are supplied: the Sanskrit is only 'svarge nivāsaḥ' (nom.) followed by 'viruddhaṃ cāpi naśyati'. The reading is defensible but the supplied words should be recorded; the Hindi ('यह ... है; यहाँ') has the same additions.", "fix": "Keep the rendering; add a note.", "severity": "minor",
+    "patch": {"n": "11", "op": "append_note", "text": "'this is' / 'here' (यह ... है / यहाँ) are supplied: literally 'dwelling in heaven, O lord of kings; even enmity perishes', i.e. for one dwelling in heaven enmity ceases."}}
+  ]},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": [
+   {"field": "notes", "where": "sadbhiḥ", "problem": "Not an error, but a second alternative is worth recording: sadbhiḥ can also be an adjective to rājapravaraiḥ ('by the good foremost kings') rather than a separate noun 'the good'. Medium confidence is honest.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "13", "op": "append_note", "text": "sadbhiḥ may also qualify rājapravaraiḥ ('by the good foremost kings') instead of being a separate noun."}}
+  ]},
+  {"n": "14", "verdict": "ok", "issues": [
+   {"field": "confidence", "where": "samāsitāḥ", "problem": "Checked: the metre (8 syllables, pathyā cadence) excludes the commoner epic form samāsāditāḥ, so samāsitāḥ is the printed reading and the draft's 'confronted' (sam-√ās, 'sit against') with medium confidence is the right call. No change.", "fix": "", "severity": "minor"}
+  ]},
+  {"n": "15", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "महान भय में भी निर्भय रहा", "problem": "'भी' (even) is not in the Sanskrit (bhaye mahati yo 'bhīto babhūva).", "fix": "महान भय में निर्भय रहा", "severity": "minor",
+    "patch": {"n": "15", "op": "replace", "field": "hindi", "old": "महान भय में भी निर्भय रहा", "new": "महान भय में निर्भय रहा"}}
+  ]},
+  {"n": "16", "verdict": "ok", "issues": [
+   {"field": "text_flags", "where": "cintayatumarhasi", "problem": "Checked and agreed: the infinitive of cintayati (class 10 / causative stem) is cintayitum; 'cintayatum' is not a regular form, and the metre is identical for both (cin-ta-ya/yi-tu-mar-ha-si, pathyā cadence), so the metre cannot decide. The flag is correctly worded as 'possible' and the words use the corrected form. Medium confidence is honest; the sense is unaffected either way.", "fix": "", "severity": "minor"}
+  ]},
+  {"n": "17", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "atha", "problem": "atha and vā here form the single disjunction 'atha vā' ('or else'); glossing atha alone as 'or' is misleading.", "fix": "or (atha vā)", "severity": "minor",
+    "patch": {"n": "17", "op": "word", "match_w": "atha", "field": "gloss", "value": "or (with vā: atha vā)"}}
+  ]},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "ok", "issues": [
+   {"field": "notes", "where": "pṛthivīsuhṛdadruhaḥ", "problem": "Checked: the extra 'a' is metrically required (pṛ-thi-vī-su-hṛ-da-dru-haḥ = 8 syllables with pathyā cadence; suhṛddruhaḥ would give 7), so it is not a typo and the draft's epic a-stem explanation stands. Medium confidence is reasonable.", "fix": "", "severity": "minor"}
+  ]},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "ok", "issues": []},
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "ok", "issues": [
+   {"field": "english", "where": "I do not see them", "problem": "etān is 'these' (the Hindi has 'इन्हें'); 'them' is a very slight loosening. Optional.", "fix": "I do not see these", "severity": "minor",
+    "patch": {"n": "25", "op": "replace", "field": "english", "old": "I do not see them, Nārada", "new": "I do not see these, Nārada"}}
+  ]},
+  {"n": "26", "verdict": "ok", "issues": []}
+ ],
+ "summary": "28 units reviewed (26 verses + 2 speaker lines). All tokens present; sandhi and compounds correct except one: unit 8 'hatāsmābhiḥ' must be hatā (f. nom. sg., agreeing with pṛthivī) + asmābhiḥ, since hatāḥ + asmābhiḥ cannot merge into one token; the gram and note need the same fix (1 error-severity issue, 3 patches). Everything else is minor: small supplied words in translations (units 6, 7, 11, 15), an unidiomatic Hindi passive in unit 9, an imperfect tense choice in Hindi unit 3, atha/vā gloss in unit 17, an optional 'these' in unit 25. The draft's flag on unit 16 (cintayatum -> cintayitum, 'possible') is correct and correctly hedged; metre is neutral. Units 13, 14 and 20 were checked: the medium confidence is honest in each case and the metre supports the printed readings samāsitāḥ and pṛthivīsuhṛdadruhaḥ (no typo). No regrouping suggested. Glossary additions proposed for the maintainer (not written here): svarga = heaven (स्वर्ग); names Duryodhana, Suyodhana, Nārada, Karṇa, Dhṛṣṭadyumna, Sātyaki, Virāṭa, Drupada, Dhṛṣṭaketu, Śikhaṇḍin, Abhimanyu; putra (voc.) = son (पुत्र); kṣatradharma = the dharma of a kṣatriya (क्षत्रिय-धर्म). Counts: error 1 (3 patches), minor 12."
+}

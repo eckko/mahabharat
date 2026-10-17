@@ -1,0 +1,108 @@
+[
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "यदि वे सब महारथी इन लोकों को प्राप्त हुए हैं, तो हे देवताओ, जान लो कि मैं उन महात्माओं के साथ ही रहूँगा।",
+  "new": "यदि वे सब महारथी इन लोकों को प्राप्त हुए हैं, तो हे देवताओ, मुझे उन महात्माओं के साथ ही स्थित जानो।",
+  "why": "reviewer (minor): sthitaṃ vitta māṃ = 'know me as staying'; the Hindi turns the participle into a future verb 'रहूँगा' (shall stay)."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे पुत्र, यदि वहाँ जाने में तुम्हारी श्रद्धा है तो बिना विलम्ब जाओ; क्योंकि देवराज की आज्ञा से हम तुम्हारे प्रिय कार्य में लगे हैं।",
+  "new": "हे पुत्र, यदि वहीं तुम्हारी श्रद्धा है तो बिना विलम्ब जाओ; क्योंकि देवराज की आज्ञा से हम तुम्हारे प्रिय कार्य में लगे हैं।",
+  "why": "reviewer (minor): 'जाने में' (in going) is supplied; the Sanskrit has only 'tatra te śraddhā' (your desire is there/for that)."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Having said this to him, the gods then instructed the messenger of the gods, \"Show him Yudhiṣṭhira's friends,\" O scorcher of foes.",
+  "new": "Having said this to him, the gods then instructed the messenger of the gods, \"Show Yudhiṣṭhira's friends,\" O scorcher of foes.",
+  "why": "reviewer (minor): 'him' is not in the Sanskrit (yudhiṣṭhirasya suhṛdo darśaya); the Hindi correctly omits it."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "overrun by iron-beaked ravens and vultures, and crowded likewise with needle-mouthed ghosts as huge as the Vindhya mountain,",
+  "new": "overrun by iron-beaked ravens and vultures, and crowded likewise with needle-mouthed ghosts like the Vindhya mountain,",
+  "why": "reviewer (minor): vindhya-śaila-upama = 'like the Vindhya mountain'; 'as huge as' adds the point of comparison (the gloss itself says 'like')."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "लोहे की चोंच वाले कौओं और गिद्धों से आक्रान्त, तथा सुई के समान मुख वाले, विन्ध्य पर्वत के समान विशाल प्रेतों से घिरा हुआ,",
+  "new": "लोहे की चोंच वाले कौओं और गिद्धों से आक्रान्त, तथा सुई के समान मुख वाले, विन्ध्य पर्वत के समान प्रेतों से घिरा हुआ,",
+  "why": "reviewer (minor): 'विशाल' (huge) is added; the compound only says 'like the Vindhya mountain'."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "The instrumentals have no noun; 'bodies' (the corpses of verse 18) is supplied. praverita: root uncertain (pra-√īr 'thrown'?); gloss from context.",
+  "new": "The instrumentals have no noun; 'bodies' (the corpses of verse 18) is supplied. praverita: root uncertain (pra-√īr 'thrown'?); gloss from context. Alternatively these instrumentals continue 'pretaiḥ ... vṛtam' of verse 20 (the pretas themselves smeared with fat and blood, with severed limbs), in which case no noun needs supplying. praveritaiḥ (4 syllables) is confirmed by the metre; preritaiḥ would break it.",
+  "why": "reviewer (minor): The instrumentals can equally continue 'pretaiḥ ... vṛtam' of verse 20 (the pretas themselves smeared with fat and blood, with severed limbs); the note should give this alternative rather than only supplying 'bodies'. Split, grams and medium confidence (praverita root uncertain; metre 8 syllables confirms praveritaiḥ, not preritaiḥ) are right."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "heated sands of Karambha, and iron rocks here and there, and iron cauldrons of oil being boiled all around;",
+  "new": "heated Karambhavālukā sands (sands like hot gruel), and iron rocks lying apart, and iron cauldrons of oil being boiled all around;",
+  "why": "reviewer (minor): 'sands of Karambha' reads as a genitive (sands belonging to a place called Karambha); the compound is karambha-vālukā, a karmadhāraya ('gruel-like sands', the name of a hell) as the gloss and note say. Also 'pṛthak' = 'separately/apart', not 'here and there' (the gloss says 'separately')."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "āgantum",
+  "old": "to come back",
+  "new": "to come",
+  "why": "reviewer (minor): ā-√gam = 'to come'; 'back' is an addition (the sense 'come along with me' is only contextual)."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "For I must turn back; so I have been told by the dwellers of heaven. If you are weary, O lord of kings, then you should come back.\"",
+  "new": "For I must turn back; so I have been told by the dwellers of heaven. If you are weary, O lord of kings, then you should come.\"",
+  "why": "reviewer (minor): 'back' is not in āgantum arhasi."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "क्योंकि मुझे लौटना है; स्वर्गवासियों ने मुझसे ऐसा ही कहा है। हे राजेन्द्र, यदि तुम थक गए हो तो अब तुम्हें लौट चलना चाहिए।\"",
+  "new": "क्योंकि मुझे लौटना है; स्वर्गवासियों ने मुझसे ऐसा ही कहा है। हे राजेन्द्र, यदि तुम थक गए हो तो अब तुम्हें चलना चाहिए।\"",
+  "why": "reviewer (minor): 'लौट' (back) is added."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "हे भारत, किन्तु युधिष्ठिर उस दुर्गन्ध से खिन्न और मूर्छित-से होकर, लौटने का मन बनाकर, वापस मुड़े।",
+  "new": "हे भारत, किन्तु युधिष्ठिर उस दुर्गन्ध से खिन्न और मूर्छित होकर, लौटने का मन बनाकर, वापस मुड़े।",
+  "why": "reviewer (minor): '-से' (as if) softens mūrchitaḥ; the Sanskrit says he was dazed/stupefied, not 'as if'."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Thus, O king, in that region he heard on every side the many pitiful words of those in pain who were speaking.",
+  "new": "Thus, O king, in that region he heard on every side the pitiful words of many kinds of those in pain who were speaking.",
+  "why": "reviewer (minor): bahuvidhāḥ = 'of many kinds' (as the gloss and the Hindi 'अनेक प्रकार की' have it), not 'many'."
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "",
+  "new": "abhyajānata: epic thematic imperfect; the classical class-9 form is abhyajānīta.",
+  "why": "reviewer (minor): √jñā is class 9 (jānīte); the classical 3 sg. impf. ātm. is abhyajānīta. abhyajānata is the epic thematic form; the gram tag is acceptable but this should be noted so the reader does not learn it as the regular form."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "that these are in this evil-smelling, most terrible region? For I know of no misdeed of all these men of holy deeds.",
+  "new": "these who are in this evil-smelling, most terrible region? For I know of no misdeed of all these men of holy deeds.",
+  "why": "reviewer (minor): ya ime ... santi is a relative clause ('these who are in this region'), not a result clause 'that these are'."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "जिससे ये इस पाप की गन्ध वाले अत्यन्त भयंकर प्रदेश में हैं? मैं इन सब पुण्यकर्मा जनों का कोई दुष्कर्म नहीं जानता।",
+  "new": "जो ये इस पाप की गन्ध वाले अत्यन्त भयंकर प्रदेश में हैं? मैं इन सब पुण्यकर्मा जनों का कोई दुष्कर्म नहीं जानता।",
+  "why": "reviewer (minor): 'जिससे' (whereby) makes it a result clause; 'ye ime' is 'जो ये' (these who)."
+ }
+]

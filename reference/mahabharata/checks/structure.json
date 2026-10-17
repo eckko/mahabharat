@@ -1,0 +1,297 @@
+{
+ "parts": {
+  "001": {
+   "chapters": 225,
+   "highest_chapter": 225,
+   "chapter_gaps": [],
+   "verses": 7196,
+   "lines": 15787,
+   "number_jumps": [
+    "001.071: 29 -> 31"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "225",
+   "last_line": "रमणीये नदीकूले सहिताः समुपाविशन् ॥"
+  },
+  "002": {
+   "chapters": 72,
+   "highest_chapter": 72,
+   "chapter_gaps": [],
+   "verses": 2389,
+   "lines": 5149,
+   "number_jumps": [
+    "002.054: 2 -> 4"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "072",
+   "last_line": "उक्तवान्न गृहीतं च मया पुत्रहितेप्सया ॥"
+  },
+  "003": {
+   "chapters": 241,
+   "highest_chapter": 241,
+   "chapter_gaps": [],
+   "verses": 8361,
+   "lines": 18172,
+   "number_jumps": [
+    "003.081: 111 -> 113",
+    "003.134: 18 -> 20",
+    "003.190: 77 -> 79",
+    "003.194: 27 -> 29"
+   ],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [
+    "241"
+   ],
+   "last_chapter": "241",
+   "last_line": "वसमान्"
+  },
+  "004": {
+   "chapters": 67,
+   "highest_chapter": 67,
+   "chapter_gaps": [],
+   "verses": 1821,
+   "lines": 3997,
+   "number_jumps": [
+    "004.014: 15 -> 17",
+    "004.015: 4 -> 6",
+    "004.019: 22 -> 24"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "067",
+   "last_line": "नगरं मत्स्यराजस्य शुशुभे भरतर्षभ ॥"
+  },
+  "005": {
+   "chapters": 197,
+   "highest_chapter": 197,
+   "chapter_gaps": [],
+   "verses": 6061,
+   "lines": 12955,
+   "number_jumps": [
+    "005.015: 29 -> 31",
+    "005.045: 26 -> 28"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "197",
+   "last_line": "वादयन्ति स्म संहृष्टाः सहस्रायुतशो नराः ॥"
+  },
+  "006": {
+   "chapters": 117,
+   "highest_chapter": 117,
+   "chapter_gaps": [],
+   "verses": 5405,
+   "lines": 11452,
+   "number_jumps": [
+    "006.041: 67 -> 69"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "117",
+   "last_line": "राधेयो रथमारुह्य प्रायात्तव सुतं प्रति ॥"
+  },
+  "007": {
+   "chapters": 173,
+   "highest_chapter": 173,
+   "chapter_gaps": [],
+   "verses": 8152,
+   "lines": 17066,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "173",
+   "last_line": "जगाम भरतश्रेष्ठ यथागतमरिंदम ॥"
+  },
+  "008": {
+   "chapters": 69,
+   "highest_chapter": 69,
+   "chapter_gaps": [],
+   "verses": 3867,
+   "lines": 8216,
+   "number_jumps": [
+    "008.022: 20 -> 22",
+    "008.024: 109 -> 111",
+    "008.027: 80 -> 82",
+    "008.040: 82 -> 84"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "069",
+   "last_line": "ताभ्यामाश्वासितो राजा तूष्णीमासीद्विचेतनः ॥"
+  },
+  "009": {
+   "chapters": 64,
+   "highest_chapter": 64,
+   "chapter_gaps": [],
+   "verses": 3313,
+   "lines": 7093,
+   "number_jumps": [
+    "009.015: 59 -> 61"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "064",
+   "last_line": "शोकसंविग्नमनसश्चिन्ताध्यानपराभवन् ॥"
+  },
+  "010": {
+   "chapters": 18,
+   "highest_chapter": 18,
+   "chapter_gaps": [],
+   "verses": 772,
+   "lines": 1633,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "018",
+   "last_line": "महादेवप्रसादः स कुरु कार्यमनन्तरम् ॥"
+  },
+  "011": {
+   "chapters": 27,
+   "highest_chapter": 27,
+   "chapter_gaps": [],
+   "verses": 730,
+   "lines": 1550,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "027",
+   "last_line": "कृत्वोत्ततार गङ्गायाः सलिलादाकुलेन्द्रियः ॥"
+  },
+  "012": {
+   "chapters": 353,
+   "highest_chapter": 353,
+   "chapter_gaps": [],
+   "verses": 12862,
+   "lines": 27685,
+   "number_jumps": [
+    "012.184: 10 -> 12",
+    "012.329: 39 -> 41",
+    "012.336: 73 -> 75"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "353",
+   "last_line": "यमनियमसमाहितो वनान्तं; परिगणितोञ्छशिलाशनः प्रविष्टः ॥"
+  },
+  "013": {
+   "chapters": 154,
+   "highest_chapter": 154,
+   "chapter_gaps": [],
+   "verses": 6521,
+   "lines": 14128,
+   "number_jumps": [
+    "013.012: 44 -> 46",
+    "013.014: 5 -> 7",
+    "013.016: 2 -> 4",
+    "013.030: 13 -> 15",
+    "013.045: 1 -> 3",
+    "013.045: 3 -> 5",
+    "013.049: 22 -> 24",
+    "013.080: 5 -> 7",
+    "013.100: 17 -> 19",
+    "013.107: 27 -> 29",
+    "013.107: 68 -> 70",
+    "013.115: 6 -> 8",
+    "013.127: 9 -> 11",
+    "013.139: 15 -> 17",
+    "013.144: 14 -> 16"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "154",
+   "last_line": "अनुज्ञातास्तया सर्वे न्यवर्तन्त जनाधिपाः ॥"
+  },
+  "014": {
+   "chapters": 96,
+   "highest_chapter": 96,
+   "chapter_gaps": [],
+   "verses": 2742,
+   "lines": 5939,
+   "number_jumps": [
+    "014.024: 12 -> 14"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "096",
+   "last_line": "पश्यतां चापि नस्तत्र नकुलोऽन्तर्हितस्तदा ॥"
+  },
+  "015": {
+   "chapters": 47,
+   "highest_chapter": 47,
+   "chapter_gaps": [],
+   "verses": 1062,
+   "lines": 2246,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "047",
+   "last_line": "धारयामास तद्राज्यं निहतज्ञातिबान्धवः ॥"
+  },
+  "016": {
+   "chapters": 9,
+   "highest_chapter": 9,
+   "chapter_gaps": [],
+   "verses": 272,
+   "lines": 569,
+   "number_jumps": [
+    "016.002: 11 -> 13"
+   ],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "009",
+   "last_line": "आचष्ट तद्यथावृत्तं वृष्ण्यन्धकजनं प्रति ॥"
+  },
+  "017": {
+   "chapters": 3,
+   "highest_chapter": 3,
+   "chapter_gaps": [],
+   "verses": 106,
+   "lines": 234,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "003",
+   "last_line": "द्रौपदी योषितां श्रेष्ठा यत्र चैव प्रिया मम ॥"
+  },
+  "018": {
+   "chapters": 5,
+   "highest_chapter": 5,
+   "chapter_gaps": [],
+   "verses": 194,
+   "lines": 410,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "005",
+   "last_line": "यो भारतं समधिगच्छति वाच्यमानं; किं तस्य पुष्करजलैरभिषेचनेन ॥"
+  }
+ },
+ "flags": [
+  "part 003: TRUNCATED? last chapter 241 ends without a danda: वसमान्",
+  "part 003: SHORT chapters ['241']"
+ ],
+ "toc_vs_text": {
+  "in_toc_not_in_text": [],
+  "in_text_not_in_toc": []
+ }
+}

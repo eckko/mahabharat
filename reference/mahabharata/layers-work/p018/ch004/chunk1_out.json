@@ -1,0 +1,2385 @@
+[
+ {
+  "n": "P1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaiśampāyana",
+      "words": [
+       {
+        "w": "vaiśampāyanaḥ",
+        "gloss": "Vaiśampāyana (name of the narrator)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uvāca",
+      "words": [
+       {
+        "w": "uvāca",
+        "gloss": "said",
+        "gram": "3 sg. pf. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैशम्पायन ने कहा:",
+  "english": "Vaiśampāyana said:",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yudhiṣṭhiro",
+      "words": [
+       {
+        "w": "yudhiṣṭhiraḥ",
+        "gloss": "Yudhiṣṭhira (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "devaiḥ",
+      "words": [
+       {
+        "w": "devaiḥ",
+        "gloss": "by the gods",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarṣimarudgaṇaiḥ",
+      "words": [
+       {
+        "w": "sa-ṛṣi-marud-gaṇaiḥ",
+        "gloss": "together with the hosts of sages and Maruts",
+        "gram": "m. inst. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pūjyamāno",
+      "words": [
+       {
+        "w": "pūjyamānaḥ",
+        "gloss": "being honoured",
+        "gram": "m. nom. sg. pres. pass. part. √pūj"
+       }
+      ]
+     },
+     {
+      "src": "yayau",
+      "words": [
+       {
+        "w": "yayau",
+        "gloss": "went",
+        "gram": "3 sg. pf. √yā"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kurupuṅgavāḥ",
+      "words": [
+       {
+        "w": "kuru-puṅgavāḥ",
+        "gloss": "bulls among the Kurus (foremost Kurus)",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब राजा युधिष्ठिर, ऋषियों और मरुद्गणों सहित देवताओं द्वारा पूजित होते हुए, वहाँ गए जहाँ वे कुरुश्रेष्ठ थे।",
+  "english": "Then King Yudhiṣṭhira, honoured by the gods together with the hosts of sages and Maruts, went to where those bulls among the Kurus were.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dadarśa",
+      "words": [
+       {
+        "w": "dadarśa",
+        "gloss": "saw",
+        "gram": "3 sg. pf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "govindaṃ",
+      "words": [
+       {
+        "w": "govindam",
+        "gloss": "Govinda (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brāhmeṇa",
+      "words": [
+       {
+        "w": "brāhmeṇa",
+        "gloss": "divine, pertaining to Brahman",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vapuṣānvitam",
+      "words": [
+       {
+        "w": "vapuṣā",
+        "gloss": "with a body, form",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "anvitam",
+        "gloss": "endowed",
+        "gram": "m. acc. sg. ppp √i + anu"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenaiva",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "very, same",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭapūrveṇa",
+      "words": [
+       {
+        "w": "dṛṣṭa-pūrveṇa",
+        "gloss": "seen before",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sādṛśyenopasūcitam",
+      "words": [
+       {
+        "w": "sādṛśyena",
+        "gloss": "by likeness",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upasūcitam",
+        "gloss": "made known, indicated",
+        "gram": "m. acc. sg. ppp √sūc + upa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ उन्होंने गोविन्द को ब्रह्मसम्बन्धी (दिव्य) शरीर से युक्त देखा, जो पहले देखे हुए उसी सादृश्य से पहचाने जा रहे थे।",
+  "english": "There he saw Govinda endowed with a divine (Brahman-like) form, made known by that very likeness seen before.",
+  "text_flags": [],
+  "notes": "brāhmeṇa vapuṣā: 'with a form pertaining to Brahman', i.e. his divine form; rendered 'divine (Brahman-like)'. The description of Govinda continues in unit 3.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dīpyamānaṃ",
+      "words": [
+       {
+        "w": "dīpyamānam",
+        "gloss": "blazing",
+        "gram": "m. acc. sg. pres. mid. part. √dīp"
+       }
+      ]
+     },
+     {
+      "src": "svavapuṣā",
+      "words": [
+       {
+        "w": "sva-vapuṣā",
+        "gloss": "with his own body",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "divyairastrairupasthitam",
+      "words": [
+       {
+        "w": "divyaiḥ",
+        "gloss": "divine",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "astraiḥ",
+        "gloss": "by weapons",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "upasthitam",
+        "gloss": "attended, waited on",
+        "gram": "m. acc. sg. ppp √sthā + upa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "cakraprabhṛtibhirghorairdivyaiḥ",
+      "words": [
+       {
+        "w": "cakra-prabhṛtibhiḥ",
+        "gloss": "the discus and the rest",
+        "gram": "n. inst. pl., bahuvrīhi"
+       },
+       {
+        "w": "ghoraiḥ",
+        "gloss": "terrible",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "divyaiḥ",
+        "gloss": "divine",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "puruṣavigrahaiḥ",
+      "words": [
+       {
+        "w": "puruṣa-vigrahaiḥ",
+        "gloss": "having human (personified) forms",
+        "gram": "n. inst. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "upāsyamānaṃ",
+      "words": [
+       {
+        "w": "upāsyamānam",
+        "gloss": "being waited upon",
+        "gram": "m. acc. sg. pres. pass. part. √ās + upa"
+       }
+      ]
+     },
+     {
+      "src": "vīreṇa",
+      "words": [
+       {
+        "w": "vīreṇa",
+        "gloss": "by the hero",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "phalgunena",
+      "words": [
+       {
+        "w": "phalgunena",
+        "gloss": "Phalguna (name)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "suvarcasā",
+      "words": [
+       {
+        "w": "su-varcasā",
+        "gloss": "of great splendour",
+        "gram": "m. inst. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "(उन्होंने गोविन्द को देखा,) जो अपने शरीर से देदीप्यमान थे, चक्र आदि घोर दिव्य अस्त्रों से, जो पुरुष-रूप धारण किए हुए थे, सेवित थे, और तेजस्वी वीर फाल्गुन द्वारा उपासित थे।",
+  "english": "(He saw him) blazing with his own body, attended by divine weapons, the discus and the rest, terrible and divine, in personified human forms, and waited upon by the hero Phalguna of great splendour.",
+  "text_flags": [],
+  "notes": "All accusatives qualify Govinda of unit 2 (object of dadarśa); the sentence runs over units 2-3. Three lines in one numbered verse as in the edition. Phalguna is an epithet; the line does not name whom it denotes.",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aparasminnathoddeśe",
+      "words": [
+       {
+        "w": "aparasmin",
+        "gloss": "in another",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "uddeśe",
+        "gloss": "region, place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karṇaṃ",
+      "words": [
+       {
+        "w": "karṇam",
+        "gloss": "Karṇa (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastrabhṛtāṃ",
+      "words": [
+       {
+        "w": "śastra-bhṛtām",
+        "gloss": "of weapon-bearers",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "varam",
+      "words": [
+       {
+        "w": "varam",
+        "gloss": "best",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dvādaśādityasahitaṃ",
+      "words": [
+       {
+        "w": "dvādaśa-āditya-sahitam",
+        "gloss": "together with the twelve Ādityas",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dadarśa",
+      "words": [
+       {
+        "w": "dadarśa",
+        "gloss": "saw",
+        "gram": "3 sg. pf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "kurunandanaḥ",
+      "words": [
+       {
+        "w": "kuru-nandanaḥ",
+        "gloss": "delight of the Kurus",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर दूसरे स्थान पर कुरुनन्दन ने शस्त्रधारियों में श्रेष्ठ कर्ण को बारह आदित्यों के साथ देखा।",
+  "english": "Then in another region the delight of the Kurus saw Karṇa, best of weapon-bearers, together with the twelve Ādityas.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athāparasminnuddeśe",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "aparasmin",
+        "gloss": "in another",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "uddeśe",
+        "gloss": "region, place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "marudgaṇavṛtaṃ",
+      "words": [
+       {
+        "w": "marud-gaṇa-vṛtam",
+        "gloss": "surrounded by the host of Maruts",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prabhum",
+      "words": [
+       {
+        "w": "prabhum",
+        "gloss": "the mighty lord",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhīmasenamathāpaśyattenaiva",
+      "words": [
+       {
+        "w": "bhīmasenam",
+        "gloss": "Bhīmasena (name)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "apaśyat",
+        "gloss": "saw",
+        "gram": "3 sg. impf. √dṛś (paś)"
+       },
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "same, very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vapuṣānvitam",
+      "words": [
+       {
+        "w": "vapuṣā",
+        "gloss": "with body, form",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "anvitam",
+        "gloss": "endowed",
+        "gram": "m. acc. sg. ppp √i + anu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर दूसरे स्थान पर उन्होंने मरुद्गणों से घिरे हुए प्रभु भीमसेन को उसी (पहले के) शरीर से युक्त देखा।",
+  "english": "Then in another region he saw the mighty Bhīmasena, surrounded by the host of Maruts, endowed with that same body.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aśvinostu",
+      "words": [
+       {
+        "w": "aśvinoḥ",
+        "gloss": "of the two Aśvins",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "tu",
+        "gloss": "and, but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthāne",
+      "words": [
+       {
+        "w": "sthāne",
+        "gloss": "in the place",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīpyamānau",
+      "words": [
+       {
+        "w": "dīpyamānau",
+        "gloss": "blazing",
+        "gram": "m. acc. du. pres. mid. part. √dīp"
+       }
+      ]
+     },
+     {
+      "src": "svatejasā",
+      "words": [
+       {
+        "w": "sva-tejasā",
+        "gloss": "with their own splendour",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nakulaṃ",
+      "words": [
+       {
+        "w": "nakulam",
+        "gloss": "Nakula (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahadevaṃ",
+      "words": [
+       {
+        "w": "sahadevam",
+        "gloss": "Sahadeva (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadarśa",
+      "words": [
+       {
+        "w": "dadarśa",
+        "gloss": "saw",
+        "gram": "3 sg. pf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "kurunandanaḥ",
+      "words": [
+       {
+        "w": "kuru-nandanaḥ",
+        "gloss": "delight of the Kurus",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसी प्रकार अश्विनीकुमारों के स्थान में कुरुनन्दन ने अपने तेज से देदीप्यमान नकुल और सहदेव को देखा।",
+  "english": "And likewise, in the place of the two Aśvins, the delight of the Kurus saw Nakula and Sahadeva blazing with their own splendour.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadarśa",
+      "words": [
+       {
+        "w": "dadarśa",
+        "gloss": "saw",
+        "gram": "3 sg. pf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "pāñcālīṃ",
+      "words": [
+       {
+        "w": "pāñcālīm",
+        "gloss": "the Pāñcāla princess",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kamalotpalamālinīm",
+      "words": [
+       {
+        "w": "kamala-utpala-mālinīm",
+        "gloss": "garlanded with lotuses and water-lilies",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vapuṣā",
+      "words": [
+       {
+        "w": "vapuṣā",
+        "gloss": "with her body",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "svargamākramya",
+      "words": [
+       {
+        "w": "svargam",
+        "gloss": "heaven",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ākramya",
+        "gloss": "having pervaded, overspread",
+        "gram": "abs. √kram + ā"
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhantīmarkavarcasam",
+      "words": [
+       {
+        "w": "tiṣṭhantīm",
+        "gloss": "standing",
+        "gram": "f. acc. sg. pres. part. √sthā"
+       },
+       {
+        "w": "arka-varcasam",
+        "gloss": "having the splendour of the sun",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार उन्होंने कमल और उत्पल की माला धारण किए हुए पाञ्चाली को देखा, जो अपने शरीर से स्वर्ग को व्याप्त करके सूर्य के समान तेज से स्थित थीं।",
+  "english": "Likewise he saw the Pāñcāla princess, garlanded with lotuses and water-lilies, standing with her body overspreading heaven, with the splendour of the sun.",
+  "text_flags": [],
+  "notes": "pāñcālī: the woman of Pāñcāla, an epithet; the line itself does not give her name (unit 9 names Draupadī).",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "athaināṃ",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "enām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahasā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "suddenly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṣṭumaicchadyudhiṣṭhiraḥ",
+      "words": [
+       {
+        "w": "praṣṭum",
+        "gloss": "to ask",
+        "gram": "inf. √prach"
+       },
+       {
+        "w": "aicchat",
+        "gloss": "wished",
+        "gram": "3 sg. impf. √iṣ"
+       },
+       {
+        "w": "yudhiṣṭhiraḥ",
+        "gloss": "Yudhiṣṭhira (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tato'sya",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "to him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhagavānindraḥ",
+      "words": [
+       {
+        "w": "bhagavān",
+        "gloss": "the blessed lord",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra (name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kathayāmāsa",
+      "words": [
+       {
+        "w": "kathayāmāsa",
+        "gloss": "told",
+        "gram": "3 sg. periphr. pf. √kath"
+       }
+      ]
+     },
+     {
+      "src": "devarāṭ",
+      "words": [
+       {
+        "w": "deva-rāṭ",
+        "gloss": "king of the gods",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब राजा युधिष्ठिर ने सहसा उससे पूछना चाहा; तब भगवान् देवराज इन्द्र ने उन्हें बताया—",
+  "english": "Then King Yudhiṣṭhira suddenly wished to question her; thereupon the blessed Indra, king of the gods, told him:",
+  "text_flags": [],
+  "notes": "asya (gen.) stands for the dative, 'to him'.",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śrīreṣā",
+      "words": [
+       {
+        "w": "śrīḥ",
+        "gloss": "Śrī (goddess of fortune)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "eṣā",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "draupadīrūpā",
+      "words": [
+       {
+        "w": "draupadī-rūpā",
+        "gloss": "in the form of Draupadī",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tvadarthe",
+      "words": [
+       {
+        "w": "tvad-arthe",
+        "gloss": "for your sake",
+        "gram": "ind. (loc.)"
+       }
+      ]
+     },
+     {
+      "src": "mānuṣaṃ",
+      "words": [
+       {
+        "w": "mānuṣam",
+        "gloss": "the human state",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatā",
+      "words": [
+       {
+        "w": "gatā",
+        "gloss": "gone to",
+        "gram": "f. nom. sg. ppp √gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ayonijā",
+      "words": [
+       {
+        "w": "a-yoni-jā",
+        "gloss": "not born of a womb",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "lokakāntā",
+      "words": [
+       {
+        "w": "loka-kāntā",
+        "gloss": "beloved of the worlds",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "puṇyagandhā",
+      "words": [
+       {
+        "w": "puṇya-gandhā",
+        "gloss": "of holy fragrance",
+        "gram": "f. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yudhiṣṭhira",
+      "words": [
+       {
+        "w": "yudhiṣṭhira",
+        "gloss": "O Yudhiṣṭhira",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे युधिष्ठिर, यह द्रौपदी के रूप में साक्षात् श्री है, जो तुम्हारे लिए मानव-योनि में गई थी; यह अयोनिजा, लोकों की प्रिय और पवित्र सुगन्धवाली है।",
+  "english": "This is Śrī in the form of Draupadī, gone to the human state for your sake, Yudhiṣṭhira: not born of a womb, beloved of the worlds, of holy fragrance.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "drupadasya",
+      "words": [
+       {
+        "w": "drupadasya",
+        "gloss": "of Drupada (name)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kule",
+      "words": [
+       {
+        "w": "kule",
+        "gloss": "in the family",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātā",
+      "words": [
+       {
+        "w": "jātā",
+        "gloss": "born",
+        "gram": "f. nom. sg. ppp √jan"
+       }
+      ]
+     },
+     {
+      "src": "bhavadbhiścopajīvitā",
+      "words": [
+       {
+        "w": "bhavadbhiḥ",
+        "gloss": "by you (pl.)",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upajīvitā",
+        "gloss": "lived with, enjoyed",
+        "gram": "f. nom. sg. ppp √jīv + upa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ratyarthaṃ",
+      "words": [
+       {
+        "w": "rati-artham",
+        "gloss": "for the sake of pleasure",
+        "gram": "ind. (acc.)"
+       }
+      ]
+     },
+     {
+      "src": "bhavatāṃ",
+      "words": [
+       {
+        "w": "bhavatām",
+        "gloss": "of you (pl.)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hyeṣā",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣā",
+        "gloss": "this (she)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirmitā",
+      "words": [
+       {
+        "w": "nirmitā",
+        "gloss": "created",
+        "gram": "f. nom. sg. ppp √mā + nis"
+       }
+      ]
+     },
+     {
+      "src": "śūlapāṇinā",
+      "words": [
+       {
+        "w": "śūla-pāṇinā",
+        "gloss": "by the Trident-handed one",
+        "gram": "m. inst. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्रुपद के कुल में जन्मी और आप लोगों द्वारा उपभुक्त यह निश्चय ही आप लोगों के आनन्द के लिए शूलपाणि द्वारा रची गई थी।",
+  "english": "Born in the family of Drupada and lived with by you all, she was indeed created by the Trident-handed one for your pleasure.",
+  "text_flags": [],
+  "notes": "śūlapāṇi, 'trident in hand', is a standing epithet of Śiva; kept as the epithet. upajīvitā: 'lived upon/with', i.e. enjoyed as a wife.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ete",
+      "words": [
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "num. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mahābhāgā",
+      "words": [
+       {
+        "w": "mahā-bhāgāḥ",
+        "gloss": "greatly fortunate",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "gandharvāḥ",
+      "words": [
+       {
+        "w": "gandharvāḥ",
+        "gloss": "Gandharvas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāvakaprabhāḥ",
+      "words": [
+       {
+        "w": "pāvaka-prabhāḥ",
+        "gloss": "bright as fire",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "draupadyāstanayā",
+      "words": [
+       {
+        "w": "draupadyāḥ",
+        "gloss": "of Draupadī",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "tanayāḥ",
+        "gloss": "sons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rājanyuṣmākamamitaujasaḥ",
+      "words": [
+       {
+        "w": "rājan",
+        "gloss": "O king",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "yuṣmākam",
+        "gloss": "of you (pl.)",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "amita-ojasaḥ",
+        "gloss": "of boundless might",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे राजन्, ये पाँच महाभाग, अग्नि के समान कान्तिवाले गन्धर्व द्रौपदी के और आप लोगों के अमित तेजस्वी पुत्र हैं।",
+  "english": "These five greatly fortunate Gandharvas, bright as fire, O king, are the sons of Draupadī and of you all, of boundless might.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paśya",
+      "words": [
+       {
+        "w": "paśya",
+        "gloss": "see",
+        "gram": "2 sg. impv. √dṛś (paś)"
+       }
+      ]
+     },
+     {
+      "src": "gandharvarājānaṃ",
+      "words": [
+       {
+        "w": "gandharva-rājānam",
+        "gloss": "king of the Gandharvas",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dhṛtarāṣṭraṃ",
+      "words": [
+       {
+        "w": "dhṛtarāṣṭram",
+        "gloss": "Dhṛtarāṣṭra (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "manīṣiṇam",
+      "words": [
+       {
+        "w": "manīṣiṇam",
+        "gloss": "wise",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "enaṃ",
+      "words": [
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vijānīhi",
+      "words": [
+       {
+        "w": "vijānīhi",
+        "gloss": "know",
+        "gram": "2 sg. impv. √jñā + vi"
+       }
+      ]
+     },
+     {
+      "src": "bhrātaraṃ",
+      "words": [
+       {
+        "w": "bhrātaram",
+        "gloss": "brother",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvajaṃ",
+      "words": [
+       {
+        "w": "pūrva-jam",
+        "gloss": "elder-born",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pituḥ",
+      "words": [
+       {
+        "w": "pituḥ",
+        "gloss": "of (your) father",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गन्धर्वराज मनीषी धृतराष्ट्र को देखो; और इन्हें तुम अपने पिता का बड़ा भाई जानो।",
+  "english": "See the wise Dhṛtarāṣṭra, king of the Gandharvas; and know him to be the elder brother of your father.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ayaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. (enclitic)"
+       }
+      ]
+     },
+     {
+      "src": "pūrvajo",
+      "words": [
+       {
+        "w": "pūrva-jaḥ",
+        "gloss": "elder-born",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhrātā",
+      "words": [
+       {
+        "w": "bhrātā",
+        "gloss": "brother",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaunteyaḥ",
+      "words": [
+       {
+        "w": "kaunteyaḥ",
+        "gloss": "son of Kuntī",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāvakadyutiḥ",
+      "words": [
+       {
+        "w": "pāvaka-dyutiḥ",
+        "gloss": "bright as fire",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sūryaputro'grajaḥ",
+      "words": [
+       {
+        "w": "sūrya-putraḥ",
+        "gloss": "son of the Sun",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "agra-jaḥ",
+        "gloss": "first-born",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śreṣṭho",
+      "words": [
+       {
+        "w": "śreṣṭhaḥ",
+        "gloss": "best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rādheya",
+      "words": [
+       {
+        "w": "rādheyaḥ",
+        "gloss": "Rādheya (son of Rādhā)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus, as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśrutaḥ",
+      "words": [
+       {
+        "w": "viśrutaḥ",
+        "gloss": "renowned",
+        "gram": "m. nom. sg. ppp √śru + vi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ādityasahito",
+      "words": [
+       {
+        "w": "āditya-sahitaḥ",
+        "gloss": "together with Āditya (the Sun)",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes, moves",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "paśyainaṃ",
+      "words": [
+       {
+        "w": "paśya",
+        "gloss": "see",
+        "gram": "2 sg. impv. √dṛś (paś)"
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣarṣabha",
+      "words": [
+       {
+        "w": "puruṣa-ṛṣabha",
+        "gloss": "O bull among men",
+        "gram": "m. voc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह तुम्हारा बड़ा भाई है, कुन्तीपुत्र, अग्नि के समान कान्तिवाला, सूर्यपुत्र, ज्येष्ठ, श्रेष्ठ, राधेय नाम से विख्यात; यह आदित्य के साथ विचरता है; हे पुरुषश्रेष्ठ, इसे देखो।",
+  "english": "This is your elder brother, the son of Kuntī, bright as fire, the son of the Sun, the first-born, the best, renowned as Rādheya; he moves together with Āditya; see him, bull among men.",
+  "text_flags": [],
+  "notes": "Three lines in one numbered verse as in the edition. rādheya iti: final visarga dropped before iti by sandhi (rādheyaḥ iti).",
+  "confidence": "high"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sādhyānāmatha",
+      "words": [
+       {
+        "w": "sādhyānām",
+        "gloss": "of the Sādhyas",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "atha",
+        "gloss": "and, then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "devānāṃ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vasūnāṃ",
+      "words": [
+       {
+        "w": "vasūnām",
+        "gloss": "of the Vasus",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "marutāmapi",
+      "words": [
+       {
+        "w": "marutām",
+        "gloss": "of the Maruts",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gaṇeṣu",
+      "words": [
+       {
+        "w": "gaṇeṣu",
+        "gloss": "among the hosts",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "paśya",
+      "words": [
+       {
+        "w": "paśya",
+        "gloss": "see",
+        "gram": "2 sg. impv. √dṛś (paś)"
+       }
+      ]
+     },
+     {
+      "src": "rājendra",
+      "words": [
+       {
+        "w": "rāja-indra",
+        "gloss": "O lord of kings",
+        "gram": "m. voc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vṛṣṇyandhakamahārathān",
+      "words": [
+       {
+        "w": "vṛṣṇi-andhaka-mahā-rathān",
+        "gloss": "the great chariot-warriors of the Vṛṣṇis and Andhakas",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sātyakipramukhānvīrānbhojāṃścaiva",
+      "words": [
+       {
+        "w": "sātyaki-pramukhān",
+        "gloss": "led by Sātyaki",
+        "gram": "m. acc. pl., bahuvrīhi"
+       },
+       {
+        "w": "vīrān",
+        "gloss": "heroes",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "bhojān",
+        "gloss": "the Bhojas",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahārathān",
+      "words": [
+       {
+        "w": "mahā-rathān",
+        "gloss": "great chariot-warriors",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और हे राजेन्द्र, साध्यों, देवताओं, वसुओं और मरुतों के भी गणों में वृष्णि और अन्धक वंश के महारथियों को, सात्यकि आदि वीरों को और भोज महारथियों को देखो।",
+  "english": "And among the hosts of the Sādhyas, the gods, the Vasus and the Maruts too, see, O lord of kings, the great chariot-warriors of the Vṛṣṇis and Andhakas, the heroes led by Sātyaki, and the Bhojas, great chariot-warriors.",
+  "text_flags": [],
+  "notes": "Three lines in one numbered verse as in the edition.",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "somena",
+      "words": [
+       {
+        "w": "somena",
+        "gloss": "with Soma (the Moon)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahitaṃ",
+      "words": [
+       {
+        "w": "sahitam",
+        "gloss": "together with",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paśya",
+      "words": [
+       {
+        "w": "paśya",
+        "gloss": "see",
+        "gram": "2 sg. impv. √dṛś (paś)"
+       }
+      ]
+     },
+     {
+      "src": "saubhadramaparājitam",
+      "words": [
+       {
+        "w": "saubhadram",
+        "gloss": "son of Subhadrā",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aparājitam",
+        "gloss": "unconquered",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "abhimanyuṃ",
+      "words": [
+       {
+        "w": "abhimanyum",
+        "gloss": "Abhimanyu (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "maheṣvāsaṃ",
+      "words": [
+       {
+        "w": "mahā-iṣu-āsam",
+        "gloss": "great bowman",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "niśākarasamadyutim",
+      "words": [
+       {
+        "w": "niśā-kara-sama-dyutim",
+        "gloss": "with splendour equal to the moon (night-maker)",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सोम के साथ स्थित सुभद्रापुत्र, अपराजित, महाधनुर्धर अभिमन्यु को देखो, जिनकी कान्ति चन्द्रमा के समान है।",
+  "english": "See the son of Subhadrā, the unconquered Abhimanyu, the great bowman, with splendour equal to the moon, together with Soma.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍurmaheṣvāsaḥ",
+      "words": [
+       {
+        "w": "pāṇḍuḥ",
+        "gloss": "Pāṇḍu (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "mahā-iṣu-āsaḥ",
+        "gloss": "great bowman",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kuntyā",
+      "words": [
+       {
+        "w": "kuntyā",
+        "gloss": "with Kuntī (name)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mādryā",
+      "words": [
+       {
+        "w": "mādryā",
+        "gloss": "with Mādrī (name)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṅgataḥ",
+      "words": [
+       {
+        "w": "saṅgataḥ",
+        "gloss": "united",
+        "gram": "m. nom. sg. ppp √gam + sam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vimānena",
+      "words": [
+       {
+        "w": "vimānena",
+        "gloss": "by a celestial car",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadābhyeti",
+      "words": [
+       {
+        "w": "sadā",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyeti",
+        "gloss": "comes to",
+        "gram": "3 sg. pres. √i + abhi"
+       }
+      ]
+     },
+     {
+      "src": "pitā",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tava",
+      "words": [
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mamāntikam",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "my",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "antikam",
+        "gloss": "presence, vicinity",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह महाधनुर्धर पाण्डु, तुम्हारे पिता, कुन्ती और माद्री के साथ मिले हुए, सदा विमान से मेरे पास आते हैं।",
+  "english": "This is Pāṇḍu, the great bowman, your father, united with Kuntī and Mādrī; he always comes to my presence in a celestial car.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vasubhiḥ",
+      "words": [
+       {
+        "w": "vasubhiḥ",
+        "gloss": "with the Vasus",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sahitaṃ",
+      "words": [
+       {
+        "w": "sahitam",
+        "gloss": "together with",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paśya",
+      "words": [
+       {
+        "w": "paśya",
+        "gloss": "see",
+        "gram": "2 sg. impv. √dṛś (paś)"
+       }
+      ]
+     },
+     {
+      "src": "bhīṣmaṃ",
+      "words": [
+       {
+        "w": "bhīṣmam",
+        "gloss": "Bhīṣma (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāntanavaṃ",
+      "words": [
+       {
+        "w": "śāntanavam",
+        "gloss": "son of Śantanu",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nṛpam",
+      "words": [
+       {
+        "w": "nṛpam",
+        "gloss": "king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "droṇaṃ",
+      "words": [
+       {
+        "w": "droṇam",
+        "gloss": "Droṇa (name)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛhaspateḥ",
+      "words": [
+       {
+        "w": "bṛhaspateḥ",
+        "gloss": "of Bṛhaspati (name)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pārśve",
+      "words": [
+       {
+        "w": "pārśve",
+        "gloss": "at the side",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gurumenaṃ",
+      "words": [
+       {
+        "w": "gurum",
+        "gloss": "teacher",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "enam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niśāmaya",
+      "words": [
+       {
+        "w": "niśāmaya",
+        "gloss": "behold",
+        "gram": "2 sg. impv. caus. √śam + ni"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वसुओं के साथ स्थित शान्तनुपुत्र राजा भीष्म को देखो; और बृहस्पति के पास इन गुरु द्रोण को देखो।",
+  "english": "See King Bhīṣma, son of Śantanu, together with the Vasus; and behold this teacher, Droṇa, at the side of Bṛhaspati.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ete",
+      "words": [
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "cānye",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anye",
+        "gloss": "other",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mahīpālā",
+      "words": [
+       {
+        "w": "mahī-pālāḥ",
+        "gloss": "protectors of the earth (kings)",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yodhāstava",
+      "words": [
+       {
+        "w": "yodhāḥ",
+        "gloss": "warriors",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāṇḍava",
+      "words": [
+       {
+        "w": "pāṇḍava",
+        "gloss": "O Pāṇḍava (son of Pāṇḍu)",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gandharvaiḥ",
+      "words": [
+       {
+        "w": "gandharvaiḥ",
+        "gloss": "with the Gandharvas",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sahitā",
+      "words": [
+       {
+        "w": "sahitāḥ",
+        "gloss": "together",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yānti",
+      "words": [
+       {
+        "w": "yānti",
+        "gloss": "go, move",
+        "gram": "3 pl. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "yakṣaiḥ",
+      "words": [
+       {
+        "w": "yakṣaiḥ",
+        "gloss": "with the Yakṣas",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "puṇyajanaistathā",
+      "words": [
+       {
+        "w": "puṇya-janaiḥ",
+        "gloss": "with the Puṇyajanas (holy folk)",
+        "gram": "m. inst. pl., karmadhāraya"
+       },
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे पाण्डव, ये और अन्य राजा तथा तुम्हारे योद्धा गन्धर्वों के साथ, और इसी प्रकार यक्षों और पुण्यजनों के साथ विचरते हैं।",
+  "english": "And these other kings and your warriors, O Pāṇḍava, move together with the Gandharvas, and likewise with the Yakṣas and the Puṇyajanas.",
+  "text_flags": [],
+  "notes": "puṇyajana, literally 'holy folk', is also a name of a class of beings (often identified with the Yakṣas); kept as a name with the literal gloss.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "guhyakānāṃ",
+      "words": [
+       {
+        "w": "guhyakānām",
+        "gloss": "of the Guhyakas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "gatiṃ",
+      "words": [
+       {
+        "w": "gatim",
+        "gloss": "state, destination",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kecitprāptā",
+      "words": [
+       {
+        "w": "kecit",
+        "gloss": "some",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "prāptāḥ",
+        "gloss": "have attained",
+        "gram": "m. nom. pl. ppp √āp + pra"
+       }
+      ]
+     },
+     {
+      "src": "nṛsattamāḥ",
+      "words": [
+       {
+        "w": "nṛ-sattamāḥ",
+        "gloss": "best of men",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tyaktvā",
+      "words": [
+       {
+        "w": "tyaktvā",
+        "gloss": "having abandoned",
+        "gram": "abs. √tyaj"
+       }
+      ]
+     },
+     {
+      "src": "dehaṃ",
+      "words": [
+       {
+        "w": "deham",
+        "gloss": "body",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jitasvargāḥ",
+      "words": [
+       {
+        "w": "jita-svargāḥ",
+        "gloss": "having won heaven",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "puṇyavāgbuddhikarmabhiḥ",
+      "words": [
+       {
+        "w": "puṇya-vāc-buddhi-karmabhiḥ",
+        "gloss": "by holy speech, thought and action",
+        "gram": "n. inst. pl., dvandva in tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और कुछ नरश्रेष्ठ, शरीर त्यागकर पवित्र वाणी, बुद्धि और कर्मों से स्वर्ग जीतकर, गुह्यकों की गति को भी प्राप्त हुए हैं।",
+  "english": "And some of those best of men, having abandoned the body and won heaven by holy speech, thought and action, have also attained the state of the Guhyakas.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ }
+]

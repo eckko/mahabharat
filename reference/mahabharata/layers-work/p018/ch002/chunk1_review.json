@@ -1,0 +1,507 @@
+{
+ "units": [
+  {
+   "n": "P1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जान लो कि मैं ... रहूँगा",
+     "problem": "sthitaṃ vitta māṃ = 'know me as staying'; the Hindi turns the participle into a future verb 'रहूँगा' (shall stay).",
+     "fix": "हे देवताओ, मुझे उन महात्माओं के साथ ही स्थित जानो।",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जान लो कि मैं उन महात्माओं के साथ ही रहूँगा।",
+      "new": "मुझे उन महात्माओं के साथ ही स्थित जानो।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "P2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वहाँ जाने में",
+     "problem": "'जाने में' (in going) is supplied; the Sanskrit has only 'tatra te śraddhā' (your desire is there/for that).",
+     "fix": "यदि वहीं तुम्हारी श्रद्धा है",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यदि वहाँ जाने में तुम्हारी श्रद्धा है",
+      "new": "यदि वहीं तुम्हारी श्रद्धा है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "P3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Show him Yudhiṣṭhira's friends",
+     "problem": "'him' is not in the Sanskrit (yudhiṣṭhirasya suhṛdo darśaya); the Hindi correctly omits it.",
+     "fix": "\"Show Yudhiṣṭhira's friends,\"",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "\"Show him Yudhiṣṭhira's friends,\"",
+      "new": "\"Show Yudhiṣṭhira's friends,\""
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "as huge as the Vindhya mountain",
+     "problem": "vindhya-śaila-upama = 'like the Vindhya mountain'; 'as huge as' adds the point of comparison (the gloss itself says 'like').",
+     "fix": "like the Vindhya mountain",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "as huge as the Vindhya mountain",
+      "new": "like the Vindhya mountain"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विन्ध्य पर्वत के समान विशाल प्रेतों",
+     "problem": "'विशाल' (huge) is added; the compound only says 'like the Vindhya mountain'.",
+     "fix": "विन्ध्य पर्वत के समान प्रेतों",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विन्ध्य पर्वत के समान विशाल प्रेतों",
+      "new": "विन्ध्य पर्वत के समान प्रेतों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'bodies' is supplied",
+     "problem": "The instrumentals can equally continue 'pretaiḥ ... vṛtam' of verse 20 (the pretas themselves smeared with fat and blood, with severed limbs); the note should give this alternative rather than only supplying 'bodies'. Split, grams and medium confidence (praverita root uncertain; metre 8 syllables confirms praveritaiḥ, not preritaiḥ) are right.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "append_note",
+      "text": "Alternatively these instrumentals continue 'pretaiḥ ... vṛtam' of verse 20 (the pretas themselves smeared with fat and blood, with severed limbs), in which case no noun needs supplying. praveritaiḥ (4 syllables) is confirmed by the metre; preritaiḥ would break it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "heated sands of Karambha",
+     "problem": "'sands of Karambha' reads as a genitive (sands belonging to a place called Karambha); the compound is karambha-vālukā, a karmadhāraya ('gruel-like sands', the name of a hell) as the gloss and note say. Also 'pṛthak' = 'separately/apart', not 'here and there' (the gloss says 'separately').",
+     "fix": "heated Karambhavālukā sands (sands like hot gruel), and iron rocks lying apart,",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "heated sands of Karambha, and iron rocks here and there,",
+      "new": "heated Karambhavālukā sands (sands like hot gruel), and iron rocks lying apart,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "āgantum",
+     "problem": "ā-√gam = 'to come'; 'back' is an addition (the sense 'come along with me' is only contextual).",
+     "fix": "to come",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "āgantum",
+      "field": "gloss",
+      "value": "to come"
+     }
+    },
+    {
+     "field": "english",
+     "where": "you should come back",
+     "problem": "'back' is not in āgantum arhasi.",
+     "fix": "then you should come.",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "then you should come back.",
+      "new": "then you should come."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "लौट चलना चाहिए",
+     "problem": "'लौट' (back) is added.",
+     "fix": "तो अब तुम्हें चलना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तो अब तुम्हें लौट चलना चाहिए।",
+      "new": "तो अब तुम्हें चलना चाहिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मूर्छित-से",
+     "problem": "'-से' (as if) softens mūrchitaḥ; the Sanskrit says he was dazed/stupefied, not 'as if'.",
+     "fix": "मूर्छित होकर",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूर्छित-से होकर",
+      "new": "मूर्छित होकर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the many pitiful words",
+     "problem": "bahuvidhāḥ = 'of many kinds' (as the gloss and the Hindi 'अनेक प्रकार की' have it), not 'many'.",
+     "fix": "the pitiful words of many kinds of those in pain who were speaking",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "the many pitiful words of those in pain who were speaking",
+      "new": "the pitiful words of many kinds of those in pain who were speaking"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "abhyajānata",
+     "problem": "√jñā is class 9 (jānīte); the classical 3 sg. impf. ātm. is abhyajānīta. abhyajānata is the epic thematic form; the gram tag is acceptable but this should be noted so the reader does not learn it as the regular form.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "append_note",
+      "text": "abhyajānata: epic thematic imperfect; the classical class-9 form is abhyajānīta."
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "that these are in this",
+     "problem": "ya ime ... santi is a relative clause ('these who are in this region'), not a result clause 'that these are'.",
+     "fix": "these who are in this evil-smelling, most terrible region?",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "english",
+      "old": "that these are in this evil-smelling",
+      "new": "these who are in this evil-smelling"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जिससे ये",
+     "problem": "'जिससे' (whereby) makes it a result clause; 'ye ime' is 'जो ये' (these who).",
+     "fix": "जो ये इस पाप की गन्ध वाले अत्यन्त भयंकर प्रदेश में हैं?",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिससे ये इस पाप",
+      "new": "जो ये इस पाप"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "57 units reviewed (54 verses + 3 speaker lines). 11 units need fixes, all minor (13 issues, 0 errors): small additions in translations (unit 14 'him', 20 'as huge as'/'विशाल', 29 'back'/'लौट', 30 '-से', 13 'जाने में'), a wrong nuance (24 'sands of Karambha' for the karmadhāraya karambha-vālukā and 'here and there' for pṛthak; 36 'many' for bahuvidhāḥ; 44 result clause for the relative ye ime; 4 future for sthitam), and two notes to add (21 alternative construal with pretaiḥ of verse 20; 38 epic form abhyajānata). Text flags: unit 42 sā->sa is a sound 'possible' flag (no feminine referent, metre indifferent, sa is the sandhi form of saḥ); unit 52 yāsmyāmi->yāsyāmi is certain (yāsmyāmi is no form; metre 8 syllables fits yāsyāmi); medium confidence on 21, 42, 52 is honest (52 could be high since the correction is certain). Splits, grams and token coverage are sound throughout; no GROUPING changes suggested. Glossary: consistent (dharma, karma = action, O king, O Bhārata, tāta = dear one). Suggested glossary additions for later chunks: devadūta = messenger of the gods (देवदूत); dharmarāja = King of Dharma (धर्मराज); Suyodhana kept as given, not Duryodhana."
+}
