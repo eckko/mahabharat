@@ -1,0 +1,86 @@
+{
+ "units": [
+  {"n": "P1", "verdict": "ok", "issues": []},
+  {"n": "1", "verdict": "fix", "issues": [
+   {"field": "english", "where": "had stood there for a moment", "problem": "tatra occurs once, in line b with ājagmuḥ; the draft renders it twice ('stood there' and 'came to that place'). Line a has no 'there'.", "fix": "had stood for a moment", "severity": "minor",
+    "patch": {"n": "1", "op": "replace", "field": "english", "old": "had stood there for a moment", "new": "had stood for a moment"}},
+   {"field": "hindi", "where": "वहाँ एक मुहूर्त ठहरे रहे", "problem": "Same doubling of tatra in Hindi (वहाँ twice).", "fix": "एक मुहूर्त ठहरे रहे", "severity": "minor",
+    "patch": {"n": "1", "op": "replace", "field": "hindi", "old": "वहाँ एक मुहूर्त ठहरे रहे", "new": "एक मुहूर्त ठहरे रहे"}}
+  ]},
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "fix", "issues": [
+   {"field": "english", "where": "had assembled there", "problem": "No tatra in the verse; 'there' is added.", "fix": "had assembled", "severity": "minor",
+    "patch": {"n": "3", "op": "replace", "field": "english", "old": "had assembled there", "new": "had assembled"}},
+   {"field": "hindi", "where": "वहाँ एकत्र हुए", "problem": "वहाँ added; the Sanskrit has no tatra.", "fix": "एकत्र हुए", "severity": "minor",
+    "patch": {"n": "3", "op": "replace", "field": "hindi", "old": "वहाँ एकत्र हुए", "new": "एकत्र हुए"}}
+  ]},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "ok", "issues": []},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "fix", "issues": [
+   {"field": "english", "where": "enjoys the fruit of his good deeds", "problem": "sukṛtaṃ bhuṅkte = 'enjoys his merit/good deeds'; 'the fruit of' is not in the Sanskrit.", "fix": "enjoys his good deeds", "severity": "minor",
+    "patch": {"n": "12", "op": "replace", "field": "english", "old": "enjoys the fruit of his good deeds", "new": "enjoys his good deeds"}},
+   {"field": "hindi", "where": "अपने सुकृत का फल भोगता है", "problem": "फल added; the Sanskrit has only sukṛtam.", "fix": "अपना सुकृत भोगता है", "severity": "minor",
+    "patch": {"n": "12", "op": "replace", "field": "hindi", "old": "अपने सुकृत का फल भोगता है", "new": "अपना सुकृत भोगता है"}}
+  ]},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "ok", "issues": []},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "fix", "issues": [
+   {"field": "english", "where": "they are all freed from sin", "problem": "muktās te caiva: 'and they too are freed'; 'all' is not in line a (sarve belongs to line c).", "fix": "they too are freed from sin", "severity": "minor",
+    "patch": {"n": "16", "op": "replace", "field": "english", "old": "they are all freed from sin", "new": "they too are freed from sin"}},
+   {"field": "hindi", "where": "वे सब पाप से मुक्त हो गये हैं", "problem": "सब added in line a (sarve is in line c, already rendered there as वे सब).", "fix": "वे भी पाप से मुक्त हो गये हैं", "severity": "minor",
+    "patch": {"n": "16", "op": "replace", "field": "hindi", "old": "वे सब पाप से मुक्त हो गये हैं", "new": "वे भी पाप से मुक्त हो गये हैं"}}
+  ]},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "upasevantu", "problem": "upasevantu is the parasmaipada (active) 3 pl. imperative (-antu); the middle form would be upasevantām. Label 'mid.' is wrong.", "fix": "3 pl. impv. upa-√sev", "severity": "error",
+    "patch": {"n": "22", "op": "word", "match_w": "upasevantu", "field": "gram", "value": "3 pl. impv. upa-√sev"}},
+   {"field": "notes", "where": "kalyāṇam", "problem": "kalyāṇam is taken as acc. m. agreeing with tvām ('you, blessed one'); it can equally be adverbial n. acc. ('attend upon you auspiciously / well'). The alternative should be recorded; medium confidence is right.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "22", "op": "append_note", "text": "kalyāṇam could also be adverbial (n. acc.) 'auspiciously, well' rather than an epithet of tvām; the translation keeps the epithet reading."}}
+  ]},
+  {"n": "23", "verdict": "ok", "issues": []},
+  {"n": "24", "verdict": "fix", "issues": [
+   {"field": "english", "where": "are far above those of other kings", "problem": "rājñām = 'of kings'; 'other' is added.", "fix": "are above those of kings", "severity": "minor",
+    "patch": {"n": "24", "op": "replace", "field": "english", "old": "are far above those of other kings", "new": "are far above those of kings"}},
+   {"field": "hindi", "where": "अन्य राजाओं के लोकों से भी ऊपर हैं", "problem": "अन्य and भी added; the Sanskrit has only rājñām uparyupari.", "fix": "राजाओं के लोकों से बहुत ऊपर हैं", "severity": "minor",
+    "patch": {"n": "24", "op": "replace", "field": "hindi", "old": "अन्य राजाओं के लोकों से भी ऊपर हैं", "new": "राजाओं के लोकों से बहुत ऊपर हैं"}}
+  ]},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "ok", "issues": []},
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {"n": "29", "verdict": "ok", "issues": []},
+  {"n": "30", "verdict": "ok", "issues": []},
+  {"n": "31", "verdict": "ok", "issues": []},
+  {"n": "32", "verdict": "ok", "issues": []},
+  {"n": "33", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "यहाँ ठहरना", "problem": "यहाँ (here) added; sthātum icchasi has no 'here'. (परीक्षा is supplied from verse 30's tṛtīyā jijñāsā and is acceptable as the referent of idaṃ tṛtīyam.)", "fix": "ठहरना", "severity": "minor",
+    "patch": {"n": "33", "op": "replace", "field": "hindi", "old": "यहाँ ठहरना", "new": "ठहरना"}}
+  ]},
+  {"n": "34", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "हे प्रजापति", "problem": "viśāṃ pate = 'lord of the people'; प्रजापति in Hindi reads as the creator-god's name, which misleads.", "fix": "हे प्रजाओं के स्वामी", "severity": "minor",
+    "patch": {"n": "34", "op": "replace", "field": "hindi", "old": "हे प्रजापति", "new": "हे प्रजाओं के स्वामी"}}
+  ]},
+  {"n": "35", "verdict": "ok", "issues": []},
+  {"n": "36", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "satyavākṣūro", "problem": "The split satya-vāk + śūraḥ is right, but the printed kṣ (सत्यवाक्षूरो) for vāk + śūra is an orthographic rendering of k + ś (kś, optionally kch); the draft does not say so, and a reader may look for a word 'ṣūra'.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "36", "op": "append_note", "text": "satyavākṣūro = satyavāk + śūraḥ; the printed kṣ stands for the sandhi k + ś (kś / kch), as commonly written; not a typo."}}
+  ]},
+  {"n": "37", "verdict": "ok", "issues": []},
+  {"n": "38", "verdict": "ok", "issues": []},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "ok", "issues": []},
+  {"n": "41", "verdict": "ok", "issues": []}
+ ],
+ "summary": "42 units reviewed (P1, 1-41). 9 units need fixes; 1 error-severity issue (unit 22: upasevantu labelled middle, it is the active 3 pl. imperative) and 14 minor issues, nearly all small additions in the translations ('there' in 1 and 3, 'fruit of' in 12, 'all' in 16a, 'other'/अन्य in 24, यहाँ in 33, प्रजापति for viśāṃ pate in 34) plus two notes to append (22 kalyāṇam adverbial alternative; 36 kṣ for k+ś). Units 22 and 31 (medium confidence) were checked: 22's split and bahuvrīhi reading are sound and medium is honest given kalyāṇam's ambiguity; 31's reading of araṇīsahitasya arthe and dvaitavanaṃ prati is correct and medium confidence is appropriate since the line itself does not say what the test was. Unit 35a does repeat 11b verbatim; the Devanagari and IAST agree, nothing suggests a transcription slip, and the draft rightly keeps it with a note and no text_flag. The '~' candrabindu tokens in 10c and 23a are handled correctly. No regrouping suggested; all splits match the printed tokens. Glossary additions for GLOSSARY.md (reviewer to add): tāta = dear one (तात); nṛpa = O king (हे नृप); pārtha (voc.) = O Pārtha (हे पार्थ); mahābāho = mighty-armed one (हे महाबाहु); puruṣarṣabha = bull among men (हे पुरुषर्षभ); puruṣavyāghra / naraśārdūla = tiger among men (हे पुरुषव्याघ्र / हे नरशार्दूल); names: Śakra, Karṇa, Droṇa, Kṛṣṇā (Draupadī), Dharma (the god), Gaṅgā."
+}
